@@ -1,5 +1,5 @@
 {
-    "Version": "07",
+    "Version": "09",
     "ReleaseNotes": "🏆 SEJA BEM VINDO AO PROJETO VITALÍCIO!!! 🏆",
     "Sms": "https://bitbin.it/Qe9L1GzS/raw/",
     "UrlUpdate": "",
@@ -27,9 +27,30 @@
       "USER": "ONFullLastHope",
       "PASS": "LASTHOPE2024"
     }
-],
+],            
   "Networks": [
-            {
+{
+"Name": "🟣VIVO-CLOUD💜",
+"FLAG": "vivo",
+"Payload": "GET / HTTP/1.1[crlf]Host: lu.topnetx.online[crlf]Origin: https://www.google.com, http://www.google.com[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive, Upgrade[crlf][crlf]",
+"SNI": "xvideos.com",
+"TlsIP": "",
+"ProxyIP": "lu.topnetx.online",
+"ProxyPort": "80",
+"Info": "Proxy"
+},
+
+{
+"Name": "🟣TIM CLOUDFIRE💜💜💜",
+"FLAG": "tim",
+"Payload": "GET / HTTP/1.1[crlf]Host: creatorsupport.deezer.com[crlf]Expect: 100-continue[crlf][crlf][split][crlf][crlf]PUT- // HTTP/1.1[crlf]Host: lu.topnetx.online[crlf]Expect: 100-continue[crlf]Upgrade: websocket[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf][crlf]",
+"SNI": "xvideos.com",
+"TlsIP": "",
+"ProxyIP": "lu.topnetx.online",
+"ProxyPort": "80",
+"Info": "Proxy"
+},
+{
 "Name": "🟣 VIVO NOVA 💜",
 "FLAG": "vivo",
 "Payload": "[delay_split][crlf][rotate=HEAD;GET;UPDATE;ACL;BDELETE;BMOVE;BPROPFIND;LOCK;MERGE;MKCOL;MOVE;NOTIFY;ORDERPATCH;PATCH;POLL;PROPFIND;SEARCH;SUBSCRIBE;UNSUBSCRIBE;UNLOCK] wss://xvideos.com/ HTTP/1.0[crlf]Host: [rotate=static.whatsapp.com;m.waze.com;business.whatsapp.com;web.whatsapp.com;dns.web.whatsapp.com;m.twitter.com;m.waze.com;waze.com;www.waze.com][crlf]Upgrade: Websocket[crlf]Proxy-Connection: Keep-Alive; Upgrade[crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf]@TSTOPSPEED[crlf][crlf]",
