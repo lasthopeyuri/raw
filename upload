@@ -3,7 +3,7 @@
     "ReleaseNotes": "🏆 PROJETO VITALÍCIO 🏆",
     "Sms": "https://bitbin.it/Qe9L1GzS/raw/",
     "UrlUpdate": "https://raw.githubusercontent.com/lasthopeyuri/raw/main/upload",
-    "logoonline": "https://i.ibb.co/74NMdQ0/56254244b636.png",
+    "logoonline": "",
     "fundoonline":"",
     "EmailFeedback": "",
     "UrlContato": "https://wa.me/5521",
@@ -19,7 +19,7 @@
 	{
       "Name": "🏆 VITALÍCIO(BL@CK) 🏆",
       "TYPE": "Servidores Dedicados",
-      "FLAG": "https://i.ibb.co/74NMdQ0/56254244b636.png",
+      "FLAG": "https://i.ibb.co/MB4Krm4/ab7fe998e959.png",
       "ServerIP": "lu.topnetx.online",
       "CheckUser": "http://painel.topnetx.online/checkuser/conecta4g.php",
       "ServerPort": "80",
@@ -31,7 +31,7 @@
   "Networks": [    
 {
 "Name": "🟣VIVO-Mix-DIRECT💜",
-"FLAG": "https://i.ibb.co/74NMdQ0/56254244b636.png",
+"FLAG": "vivo",
 "Payload": "HTTP/1.1[crlf] 200 Connection established\r\nHost: GET /? HTTP/2.0\r\nHost: lu.topnetx.online\r\n200 Connection established\r\nProxy-Connection: close\r\nConnection-Keep-true\r\nControl-Cache: no-cache\r\nContent-Length: 9999999999999999999\r\nUser-Agent: Yes \r\nContent-Encoding: 88888888\r\nContent-Language: 00000000\r\nContent-Length: 55555555\r\nContent-Location:33333333[crlf][crlf][",
 "SNI": "",
 "TlsIP": "",
@@ -42,7 +42,7 @@
 
 {
 "Name": "🟣VIVO-Mix-Turbo💜",
-"FLAG": "https://i.ibb.co/74NMdQ0/56254244b636.png",
+"FLAG": "vivo",
 "Payload": "[delay_split]ACL / HTTP/1.1[crlf]Host: [rotate=104.16.51.111;104.19.239.25;104.16.53.111][crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]",
 "SNI": "",
 "TlsIP": "",
@@ -53,7 +53,7 @@
 
 {
 "Name": "🟣VIVO-CLOUD💜",
-"FLAG": "https://i.ibb.co/74NMdQ0/56254244b636.png",
+"FLAG": "vivo",
 "Payload": "GET / HTTP/1.1[crlf]Host: lu.topnetx.online[crlf]Origin: https://www.google.com, http://www.google.com[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive, Upgrade[crlf][crlf]",
 "SNI": "xvideos.com",
 "TlsIP": "",
@@ -64,7 +64,7 @@
 
 {
 "Name": "🟣TIM CLOUDFIRE💜💜💜",
-"FLAG": "https://i.ibb.co/74NMdQ0/56254244b636.png",
+"FLAG": "tim",
 "Payload": "GET / HTTP/1.1[crlf]Host: creatorsupport.deezer.com[crlf]Expect: 100-continue[crlf][crlf][split][crlf][crlf]PUT- // HTTP/1.1[crlf]Host: lu.topnetx.online[crlf]Expect: 100-continue[crlf]Upgrade: websocket[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf][crlf]",
 "SNI": "xvideos.com",
 "TlsIP": "",
@@ -74,7 +74,7 @@
 },
 {
 "Name": "🟣 VIVO NOVA 💜",
-"FLAG": "https://i.ibb.co/74NMdQ0/56254244b636.png",
+"FLAG": "vivo",
 "Payload": "[delay_split][crlf][rotate=HEAD;GET;UPDATE;ACL;BDELETE;BMOVE;BPROPFIND;LOCK;MERGE;MKCOL;MOVE;NOTIFY;ORDERPATCH;PATCH;POLL;PROPFIND;SEARCH;SUBSCRIBE;UNSUBSCRIBE;UNLOCK] wss://xvideos.com/ HTTP/1.0[crlf]Host: [rotate=static.whatsapp.com;m.waze.com;business.whatsapp.com;web.whatsapp.com;dns.web.whatsapp.com;m.twitter.com;m.waze.com;waze.com;www.waze.com][crlf]Upgrade: Websocket[crlf]Proxy-Connection: Keep-Alive; Upgrade[crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf]@TSTOPSPEED[crlf][crlf]",
 "SNI": "xvideos.com",
 "TlsIP": "",
@@ -84,7 +84,7 @@
 },
               {
             "Name": "🟣VIVO/PRE/BR🟣",
-            "FLAG": "https://i.ibb.co/74NMdQ0/56254244b636.png",
+            "FLAG": "vivo",
             "Payload": "[delay_split] ACL / HTTP/1.1[crlf]Host:[random= 104.18.6.80;104.18.7.80;162.159.138.6;162.159.128.7;104.17.70.206;104.17.71.206;104.17.72.206;104.17.73.206;104.17.74.206;172.64.144.109;104.18.43.147;104.18.7.41][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
             "SNI": "lu.topnetx.online", 
             "TlsIP": "lu.topnetx.online", 
@@ -94,7 +94,7 @@
         }, 
        {
 "Name": "🟣 VIVO PRÉ-3 💜",
-"FLAG": "https://i.ibb.co/74NMdQ0/56254244b636.png",
+"FLAG": "vivo",
 "Payload": "[delay_split]MERGE summit.adobe.com HTTP/1.1[crlf]Host: lu.topnetx.online[crlf]Connection: upgrade, Keep-Alive[crlf]Upgrade: HTTP/2.0[crlf]User-Agent: Googlebot/2.1 (+ http://www.google.com/bot.html)[crlf]Referer: http://www.google.com[crlf][crlf]",
 "SNI": "",
 "TlsIP": "",
@@ -105,7 +105,7 @@
 
 {
 "Name": "🟣 VIVO PRÉ 03 💜",
-"FLAG": "https://i.ibb.co/74NMdQ0/56254244b636.png",
+"FLAG": "vivo",
 "Payload": "[delay_split]GET https://tagmanager.google.com/[crlf]GET https://recarga.vivo.com.br HTTP/1.1[crlf]Host: http://recarga.vivo.com.br[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
 "SNI": "",
 "TlsIP": "",
@@ -115,8 +115,8 @@
 },
  
          {
-      "Name": "➡️ 𝙑𝙄𝙑𝙊 ➡️",
-      "FLAG": "https://i.ibb.co/74NMdQ0/56254244b636.png",
+      "Name": "💜𝙑𝙄𝙑𝙊💜",
+      "FLAG": "vivo",
       "Payload": "[delay_split]ACL / HTTP/1.1[crlf]Host: lu.topnetx.online[crlf]",
       "SNI": "",
       "TlsIP": "",
@@ -125,8 +125,8 @@
       "Info": "Proxy"
     },
          {
-      "Name": "➡️ 𝗩𝗜𝗩𝗢 TODOS DDDs ",
-      "FLAG": "https://i.ibb.co/74NMdQ0/56254244b636.png",
+      "Name": "💜 𝗩𝗜𝗩𝗢 TODOS DDDs💜",
+      "FLAG": "vivo",
       "Payload": "[split]ACL HTTP/1.9[crlf][crlf]QUIC/11:80 Ua[crlf]",
       "SNI": "",
       "TlsIP": "",
@@ -136,7 +136,7 @@
 },
      {
       "Name": "💜VIVO DDD19",
-      "FLAG": "https://i.ibb.co/74NMdQ0/56254244b636.png",
+      "FLAG": "vivo",
       "Payload": "[delay_split]ACL AtlasN42/ HTTP/1.1[crlf]Host: lu.topnetx.online[crlf]Atualização: websocket[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
@@ -145,9 +145,9 @@
       "Info": "Proxy"
 },
             {
-            "Name": "🚀 VIVO 🚀/PRE/BR-04",
-            "FLAG": "https://i.ibb.co/74NMdQ0/56254244b636.png",
-            "Payload": "[delay_split] ACL / HTTP/1.1 [lf]Host: [rotate=download.cdn.viber.com;zoom .zynga.com;www.ebuddy.com;games.iqiyi.com;www.espn.com;wd.adcolony.com;www.s.ssacdn.com;www.youtube.com;www.au.download.windowsupdate .com;edge1-moblive.yuppcdn.net;get.espn.com;spiegel.de;shacar.lecloud.com;www.bradesco.com.br;ftp.br.debian.org:edge1-moblive.yuppcdn.net ;cnn.com;www.sina.com;mtalk.google.com;www.zoiper.com;www.skype.com;www.viddler.com][crlf]@APKNETFREE[crlf]",
+            "Name": "💜 VIVO/PRE/BR 💜",
+            "FLAG": "vivo",
+            "Payload": "[delay_split]ACL / HTTP/1.1 [lf]Host: [rotate=download.cdn.viber.com;zoom .zynga.com;www.ebuddy.com;games.iqiyi.com;www.espn.com;wd.adcolony.com;www.s.ssacdn.com;www.youtube.com;www.au.download.windowsupdate .com;edge1-moblive.yuppcdn.net;get.espn.com;spiegel.de;shacar.lecloud.com;www.bradesco.com.br;ftp.br.debian.org:edge1-moblive.yuppcdn.net ;cnn.com;www.sina.com;mtalk.google.com;www.zoiper.com;www.skype.com;www.viddler.com][crlf]@APKNETFREE[crlf]",
             "SNI": "lu.topnetx.online",
             "SNI": "lu.topnetx.online",
             "TlsIP": "lu.topnetx.online",
@@ -157,7 +157,7 @@
         },
          {
 "Name": "🟣 VIVO PRÉ 11",
-      "FLAG": "https://i.ibb.co/74NMdQ0/56254244b636.png"
+"FLAG": "vivo.png",
 "Payload": "[delay_split]ACL / HTTP/1.1[crlf]Host: [rotate=104.16.51.111;104.19.239.25;104.16.53.111][crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]",
 "SNI": "",
 "TlsIP": "",
@@ -166,8 +166,8 @@
 "Info": "Proxy"
 },
          {
-            "Name": "🚀 VIVO 🚀 WSS 05(AGUARDE ATE CONECTAR)",
-            "FLAG": "https://i.ibb.co/74NMdQ0/56254244b636.png",
+            "Name": "💜VIVO WSS(AGUARDE CONECTAR)💜",
+            "FLAG": "vivo",
             "Payload": "[delay_split][lf]ACL / HTTP/1.1 Websocket [lf]Host: [rotate= portal.vivo.com.br;portalrecarga.vivo.com.br/recarga/home/;meuplano.tim.com.br;www.vivo.com.br;buzzfeed.com;mobile.adobe.com;1.0.0.5;1.1.1.1;buzzfeed.com;myspace.com;mobile.google.com;1.0.0.5;spotify.com;pagamentonline.emis.co.ao;playwaze.com;wazer.com;soundwaze.com;escolas.playwaze.com;www.wazeunlimited.com;bucs.playwaze.com;ftp.chillwaze.com;unpkg.com;c6bank.com.br;helpypro.stoodi.com.br;atendimento.lojadointer.com.br;creatorsupport.deezer.com:80;itsupport.surveymonkey.com;linefriendshelp.zendesk.com;vivo.interflashplusvpnpro.cloud;m2.interflashplusvpnpro.cloud][crlf][crlf][crlf]",
             "SNI": "",
             "TlsIP": "",
@@ -176,8 +176,8 @@
             "Info": "Proxy"
         },
         {
-            "Name": "🚀 VIVO 🚀 WSS 06(AGUARDE ATE CONECTAR)",
-            "FLAG": "https://i.ibb.co/74NMdQ0/56254244b636.png",
+            "Name": "💜VIVO WSS-2(AGUARDE CONECTAR)💜",
+            "FLAG": "vivo",
             "Payload": "[delay_split]ACL / HTTP/1.1[crlf]Host: [rotate=149.78.184.20;52.85.213.82;52.85.213.26;52.85.213.48;13.227.126.49;104.18.7.41;104.16.56.6][crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]",
             "SNI": "lu.topnetx.online",
             "TlsIP": "",
@@ -186,8 +186,8 @@
             "Info": "Proxy"
         },
          {
-            "Name": "🟣 🇧🇷 𝑽𝑰𝑽𝑶 𝑷𝑹𝑶𝑿𝒀 [1]",
-            "FLAG": "https://i.ibb.co/74NMdQ0/56254244b636.png",
+            "Name": "🟣🇧🇷 𝑽𝑰𝑽𝑶 𝑷𝑹𝑶𝑿𝒀💜",
+            "FLAG": "vivo",
             "Payload": "[delay_split]ACL TSTOPSPEED/ HTTP/1.1[crlf]Host: analytics.google.com[crlf]Upgrade: websocket[crlf][crlf]",
             "SNI": "",
             "TlsIP": "",
@@ -196,8 +196,8 @@
             "Info": "Proxy"
         },
             {
-      "Name": "🚀 VIVO 🚀 NEW 2 ",
-      "FLAG": "https://i.ibb.co/74NMdQ0/56254244b636.png",
+      "Name": "💜VIVO NEW 2 ",
+      "FLAG": "vivo",
       "Payload": "[delay_split]ACL lu.topnetx.online:22 HTTP/1.1[crlf]Host: lu.topnetx.online[crlf]X-Online-Host: lu.topnetx.online[crlf]X-Forward-Host: lu.topnetx.online[crlf]Connection: Keep-Alive[crlf]User-Agent: [ua][crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
@@ -207,7 +207,7 @@
       },
           {
             "Name": "🟣VIVO  - SECURITY IPV4🟣",
-            "FLAG": "https://i.ibb.co/74NMdQ0/56254244b636.png",
+            "FLAG": "vivo",
       "Payload": "[delay_split]ACL AtlasN42/ HTTP/1.1[crlf]Host: lu.topnetx.online[crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
@@ -216,8 +216,8 @@
       "Info": "Proxy"
         },
            { 
-      "Name": "➡️ 𝗩𝗜𝗩𝗢 TODOS DDDs [NOVA]", 
-      "FLAG": "https://i.ibb.co/74NMdQ0/56254244b636.png", 
+      "Name": "💜𝗩𝗜𝗩𝗢 TODOS DDDs [NOVA]", 
+      "FLAG": "vivo", 
       "Payload": "[split][delay_split]ACL / /\n", 
       "SNI": "", 
       "TlsIP": "", 
@@ -226,8 +226,8 @@
       "Info": "Proxy" 
     },
  {
-      "Name": "🚀 VIVO 🚀 02 SECURITY DDD 27",
-      "FLAG": "https://i.ibb.co/74NMdQ0/56254244b636.png",
+      "Name": "💜VIVO SECURITY 27",
+      "FLAG": "vivo",
       "Payload": "ACL http://1.1.1.1rotate=buzzfeed.com;mobile.adobe.com;1.0.0.5 HTTP/1.1[crlf]Host: http://1.1.1.1rotate=buzzfeed.com;myspace.com;mobile.google.com;1.0.0.5[crlf]",
       "SNI": "",
       "TlsIP": "",
@@ -237,7 +237,7 @@
         },
     {
       "Name": "➡️VIVO SECURITY ONLINE",
-      "FLAG": "https://i.ibb.co/74NMdQ0/56254244b636.png"
+      "FLAG": "vivo.png",
       "Payload": "ACL //HOST; tata.mdv2raynet.209.14.16.38.67.345.789.-890.345.5.6 [random=13.249.98.114;13.249.98.48;13.249.98.55;13.249.98.11;18.64.207.35;18.64.207.86;18.64.207.48;18.64.207.62;65.9.55.52;65.9.55.100;65.9.55.7;65.9.55.13;99.86.74.84;99.86.74.24;99.86.74.88;99.86.74.101;143.204.29.108;143.204.29.87;143.204.29.93;143.204.29.15;108.138.246.54;108.138.246.86;108.138.246.16;108.138.246.42 ]",
       "SNI": "",
       "TlsIP": "",
@@ -246,8 +246,8 @@
       "Info": "Proxy"
    },
             {  
-            "Name": "(OPÇÕES VIVO EASY👇)",
-      "FLAG": "https://i.ibb.co/74NMdQ0/56254244b636.png"
+            "Name": "💜(OPÇÕES VIVO EASY👇)",
+            "FLAG": "easy",
             "Payload": "[delay_split][lf]GET / HTTP/1.1[lf]Host: portal.vivo.com.br [lf]",
             "SNI": "",
             "TlsIP": "lu.topnetx.online",
@@ -256,8 +256,8 @@
             "Info": "Proxy"
         },
          {
-            "Name": "🚀 VIVO 🚀 EASY NOVA",
-            "FLAG": "https://i.ibb.co/74NMdQ0/56254244b636.png",
+            "Name": "💜VIVO EASY NOVA",
+            "FLAG": "vivo",
             "Payload": "GET / HTTP/1.1[crlf]Host: lu.topnetx.online[crlf]Upgrade: websocket[crlf][crlf]",
             "SNI": "lu.topnetx.online",
             "TlsIP": "lu.topnetx.online",
@@ -266,8 +266,8 @@
             "Info": "Proxy"
         },
            {
-            "Name": "🚀 VIVO 🚀 EASY",
-            "FLAG": "https://i.ibb.co/74NMdQ0/56254244b636.png",
+            "Name": "💜VIVO EASY💜💜",
+            "FLAG": "vivo",
             "Payload": "GET / HTTP/1.1[crlf]Host: lu.topnetx.online[crlf]Upgrade: Websocket[crlf]Connection: Upgrade[crlf][crlf]",
             "SNI": "",
             "TlsIP": "",
@@ -276,8 +276,8 @@
             "Info": "Proxy"
         }, 
            {
-      "Name": "🚀 VIVO 🚀 BRASIL EASY PRÉ 01", 
-      "FLAG": "https://i.ibb.co/74NMdQ0/56254244b636.png", 
+      "Name": "💜VIVO BRASIL EASY💜PRÉ💜", 
+      "FLAG": "vivo", 
       "Payload": "ACL wss://lu.topnetx.online/ HTTP/1.1[crlf]Host: assine.vivo.com.br[crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]scottsshd[crlf][crlf]", 
       "SNI": "", 
       "TlsIP": "", 
@@ -286,8 +286,8 @@
       "Info": "Proxy"
     },
 {
-      "Name": "🚀 VIVO 🚀 BRASIL EASY PRÉ 02", 
-      "FLAG": "https://i.ibb.co/74NMdQ0/56254244b636.png", 
+      "Name": "💜VIVO BRASIL EASY PRÉ 02", 
+      "FLAG": "vivo", 
       "Payload": "ACL wss://lu.topnetx.online/ HTTP/1.1[crlf]Host: legado.vivo.com.br[crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]scottsshd[crlf][crlf]", 
       "SNI": "", 
       "TlsIP": "", 
@@ -296,8 +296,8 @@
       "Info": "Proxy"
     },
 {
-      "Name": "🚀 VIVO 🚀 BRASIL EASY PRÉ 03", 
-      "FLAG": "https://i.ibb.co/74NMdQ0/56254244b636.png", 
+      "Name": "💜VIVO BRASIL EASY PRÉ 03", 
+      "FLAG": "vivo", 
       "Payload": "ACL wss://lu.topnetx.online/ HTTP/1.1[crlf]Host: vivo360.vivo.com.br[crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]scottsshd[crlf][crlf]", 
       "SNI": "", 
       "TlsIP": "", 
@@ -306,8 +306,8 @@
       "Info": "Proxy"
     },   
       {
-         "Name": "🚀 VIVO 🚀 EASY [12]",
-      "FLAG": "https://i.ibb.co/74NMdQ0/56254244b636.png",
+         "Name": "💜VIVO EASY [12]",
+      "FLAG": "vivo",
       "Payload": "GET / HTTP/1.1[crlf]Host: lu.topnetx.online[crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
@@ -316,8 +316,8 @@
       "Info": "Proxy"
     },
     {
-      "Name": "🚀 VIVO 🚀 EASY - [13]",
-      "FLAG": "https://i.ibb.co/74NMdQ0/56254244b636.png",
+      "Name": "💜VIVO EASY - [13]",
+      "FLAG": "vivo",
       "Payload": "GET / HTTP/1.1[crlf]Host: lu.topnetx.online[crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
@@ -326,8 +326,8 @@
       "Info": "Proxy"
     },
     {
-      "Name": "🚀 VIVO 🚀 EASY - [14]",
-      "FLAG": "https://i.ibb.co/74NMdQ0/56254244b636.png",
+      "Name": "💜VIVO EASY - [14]",
+      "FLAG": "vivo",
       "Payload": "GET / HTTP/1.1[crlf]Host: lu.topnetx.online[crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
@@ -336,8 +336,8 @@
       "Info": "Proxy"
     },
     {
-      "Name": "🚀 VIVO 🚀 EASY - [15]",
-      "FLAG": "https://i.ibb.co/74NMdQ0/56254244b636.png",
+      "Name": "💜VIVO EASY - [15]",
+      "FLAG": "vivo",
       "Payload": "GET / HTTP/1.1[crlf]Host: lu.topnetx.online[crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
@@ -346,8 +346,8 @@
       "Info": "Proxy"
     },
     {
-      "Name": "🚀 VIVO EASY - [16]",
-      "FLAG": "https://i.ibb.co/74NMdQ0/56254244b636.png",
+      "Name": "💜VIVO EASY - [16]",
+      "FLAG": "vivo",
       "Payload": "GET / HTTP/1.1[crlf]Host: lu.topnetx.online[crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
@@ -356,9 +356,9 @@
       "Info": "Proxy"
     },
           {  
-            "Name": "(OPÇÕES TIM SALDO VÁLIDO👇)",
-      "FLAG": ""
-            "Payload""[delay_split][lf]GET / HTTP/1.1[lf]Host: portal.vivo.com.br [lf]",
+            "Name": "💜(OPÇÕES TIM SALDO VÁLIDO👇)",
+            "FLAG": "easy",
+            "Payload": "[delay_split][lf]GET / HTTP/1.1[lf]Host: portal.vivo.com.br [lf]",
             "SNI": "",
             "TlsIP": "lu.topnetx.online",
             "Proxy IP": "lu.topnetx.online",
@@ -367,7 +367,7 @@
         },
          {
       "Name": "🔵TIM NOVA",
-"FLAG": "https://i.ibb.co/74NMdQ0/56254244b636.png",
+      "FLAG": "tim.png",
       "Payload": "PATCH / HTTP/1.1[lf]Host: lu.topnetx.online[lf]Upgrade: Websocket[lf]User-Agent: Mobile Safari/9 OPR/9[lf][split][lf]",
       "SNI": "",
       "TlsIP": "",
@@ -376,8 +376,8 @@
       "Info": "Proxy"
    },
          {
-            "Name": "👥TIM BRASIL 09👥",
-"FLAG": "https://i.ibb.co/74NMdQ0/56254244b636.png",
+            "Name": "🔵TIM BRASIL 09👥",
+            "FLAG": "tim",
             "Payload": "ACL /cdn-cgi/trace HTTP/1.1[crlf]Host: descomplica.com.br[crlf][crlf][split][crlf][crlf]ACL / HTTP/1.1[crlf]Host: [app_host][crlf]User-Agent: Mobile Safari/9 OPR/9 [crlf]Upgrade: websocket[crlf][crlf]",
             "SNI": "",
             "TlsIP": "",
@@ -387,7 +387,7 @@
         },
         {
             "Name": "🔵TIM A BR 02",
-"FLAG": "https://i.ibb.co/74NMdQ0/56254244b636.png",
+            "FLAG": "tim",
             "Payload": "ACL /cdn-cgi/trace HTTP/1.1[crlf]Host: descomplica.com.br[crlf][crlf][split][crlf][crlf]ACL / HTTP/1.1[crlf]Host: [app_host][crlf]User-Agent: Mobile Safari/9 OPR/9 [crlf]Upgrade: websocket[crlf][crlf]",
             "SNI": "",
             "TlsIP": "",
@@ -397,7 +397,7 @@
         },
          {
             "Name": "🔵TIM CLOUD 3 📳DDD 11/21📳 🔵",
-"FLAG": "https://i.ibb.co/74NMdQ0/56254244b636.png",
+            "FLAG": "tim",
             "Payload": "ACL / HTTP/1.3[crlf]Host: mtls.sandbox.c6bank.com.br[crlf]Expect: 100-continue[crlf][crlf][split][crlf][crlf]ACL- // HTTP/1.3[crlf]Host: [app_host][crlf]Expect: 100-continue[crlf]Upgrade: websocket[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf][crlf]",
             "SNI": "",
             "TlsIP": "",
@@ -407,7 +407,7 @@
         },
         {
             "Name": "🔵TIM NOVA 05 ",
-"FLAG": "https://i.ibb.co/74NMdQ0/56254244b636.png",
+            "FLAG": "tim",
             "Payload": "ACL / HTTP/1.3[crlf]Host: mtls.sandbox.c6bank.com.br[crlf]Expect: 100-continue[crlf][crlf][split][crlf][crlf]ACL- // HTTP/1.3[crlf]Host: [app_host][crlf]Expect: 100-continue[crlf]Upgrade: websocket[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf][crlf]",
             "SNI": "",
             "TlsIP": "",
@@ -416,8 +416,8 @@
             "Info": "Proxy"
         },
         {
-                "Name": "🚀 NOVA TIM-VÁLIDO+RAPIDA",
-    "FLAG": "https://i.ibb.co/74NMdQ0/56254244b636.png",
+                "Name": "🔵NOVA TIM SALDO VÁLIDO RAPIDA",
+                "FLAG": "tim",
                 "Payload": "ACL / HTTP/1.1[crlf]Host: lu.topnetx.online[crlf]Upgrade: websocket[crlf][crlf]",
                 "SNI": "",
                 "TlsIP": "",
@@ -427,7 +427,7 @@
           },
          {
           "Name":"🔵 𝐓𝐈𝐌 07🚀",
-"FLAG": "https://i.ibb.co/74NMdQ0/56254244b636.png",
+         "FLAG":"tim",
        "Payload":"ACL / HTTP/1.1[crlf]Host: lu.topnetx.online[crlf]Upgrade: websocket[crlf][crlf]",
             "SNI": "",
             "TlsIP": "",
@@ -436,8 +436,8 @@
             "Info": "Proxy"
                      },
   {  
-            "Name": "(OPÇÕES TIM SALDO EXPIRADO👇)",
-      "FLAG": "https://i.ibb.co/74NMdQ0/56254244b636.png"
+            "Name": "🔵(OPÇÕES TIM SALDO EXPIRADO👇)",
+            "FLAG": "easy",
             "Payload": "[delay_split][lf]GET / HTTP/1.1[lf]Host: portal.vivo.com.br [lf]",
             "SNI": "",
             "TlsIP": "lu.topnetx.online",
@@ -446,8 +446,8 @@
             "Info": "Proxy"
         },
      {
-            "Name": "🔵TIM EXPIRADO ONLINE",
-"FLAG": "https://i.ibb.co/74NMdQ0/56254244b636.png",
+            "Name": "🔵TIM EXPIRADO ONLINE 04 ",
+            "FLAG": "tim",
             "Payload": "ACL / HTTP/1.1[crlf]Host: lu.topnetx.online[crlf]Upgrade: websocket[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf]@fenixnetbr[crlf][crlf]",
             "SNI": "",
             "TlsIP": "",
@@ -456,8 +456,8 @@
             "Info": "Proxy"
         },
         {
-            "Name": "🔵TIM EXPIRADO ONLINE🔵",
-"FLAG": "https://i.ibb.co/74NMdQ0/56254244b636.png",
+            "Name": "🔵TIM EXPIRADO ONLINE 05",
+            "FLAG": "tim",
             "Payload": "ACL / HTTP/1.1[crlf]Host: lu.topnetx.online[crlf]Upgrade: websocket[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf]@fenixnetbr[crlf][crlf]",
             "SNI": "",
             "TlsIP": "",
@@ -467,7 +467,7 @@
         },
          {
             "Name": "🔵TIM EXPIRADO API ",
-"FLAG": "https://i.ibb.co/74NMdQ0/56254244b636.png",
+            "FLAG": "tim",
             "Payload": "ACL / HTTP/1.3[crlf]Host: login-homebroker.c6bank.com.br [crlf]Expect: 100-continue[crlf][crlf][split][crlf][crlf]ACL- // HTTP/1.3[crlf]Host: [app_host][crlf]Expect: 100-continue[crlf]Upgrade: websocket[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf][crlf]",
             "SNI": "",
             "TlsIP": "",
@@ -477,7 +477,7 @@
         },
               {
             "Name": "🔵TIM 2 ",
-      "FLAG": "https://i.ibb.co/74NMdQ0/56254244b636.png"
+      "FLAG": "tim",
       "Payload": "ACL / HTTP/1.2[crlf]Host: www.hostingadvice.com[crlf]Expect: 100-continue[crlf][crlf][split][crlf][crlf]GET- // HTTP/1.1[crlf]Host: [app_host][crlf]Expect: 100-continue[crlf]Upgrade: websocket[crlf]User-Agent: Googlebot/3.1 (+http://www.google.com/bot.html)[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
@@ -487,7 +487,7 @@
         },
               {
     "Name": "🔵TIM ● FUNCIONA COM CRÉDITO EXPIRADO OU VÁLIDO ",
-"FLAG": "https://i.ibb.co/74NMdQ0/56254244b636.png",
+            "FLAG": "tim",
             "Payload": "ACL / HTTP/1.1[crlf]Host: lu.topnetx.online[crlf]Upgrade: websocket[crlf][crlf]",
             "SNI": "",
             "TlsIP": "",
@@ -497,7 +497,7 @@
     },
             {
              "Name": "🔵TIM EXPIRADO E VALIDO 02",
-"FLAG": "https://i.ibb.co/74NMdQ0/56254244b636.png",
+            "FLAG": "tim",
             "Payload": "ACL /wss.html HTTP/1.1[crlf]Host: lu.topnetx.online[crlf]Origin: https://www.google.com, http://www.google.com[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive, Upgrade[crlf][crlf]",
             "SNI": "",
             "TlsIP": "",
@@ -507,7 +507,7 @@
       },
           {
             "Name": "🔵TIM CLOUD 4 📳DDD 11/21📳 🔵",
-"FLAG": "https://i.ibb.co/74NMdQ0/56254244b636.png",
+            "FLAG": "tim",
             "Payload": "ACL / HTTP/1.3[crlf]Host: mtls.sandbox.c6bank.com.br[crlf]Expect: 100-continue[crlf][crlf][split][crlf][crlf]ACL- // HTTP/1.3[crlf]Host: [app_host][crlf]Expect: 100-continue[crlf]Upgrade: websocket[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf][crlf]",
             "SNI": "",
             "TlsIP": "",
@@ -516,18 +516,18 @@
             "Info": "Proxy"
         },
          {
-"Name": "🔵TIM PRÉ MB [11]",
-      "FLAG": "https://i.ibb.co/74NMdQ0/56254244b636.png",
+"Name":"🔵TIM PRÉ MB [11]",
+      "FLAG": "tim",
       "Payload": "ACL / HTTP/1.1[crlf]Host: lu.topnetx.online[crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
-      "ProxyIP": "lu.topnetx.online",
+      "ProxyIP": "104.18.98.70#lu.topnetx.online",
       "ProxyPort": "80",
       "Info": "Proxy"
 },
     {
       "Name": "🔵TIM BLAK",
-       "FLAG": "https://i.ibb.co/74NMdQ0/56254244b636.png",
+       "FLAG": "tim",
        "Payload": "ACL / HTTP/1.1[crlf]Host: lu.topnetx.online[crlf]Upgrade: websocket[crlf][crlf]",
        "SNI": "",
        "TlsIP": "",
@@ -537,7 +537,7 @@
     },
          {
       "Name": "🔵TIM MOBILE",
-      "FLAG": "https://i.ibb.co/74NMdQ0/56254244b636.png",
+      "FLAG": "tim",
       "Payload": "ACL / HTTP/1.1[crlf]Host: lu.topnetx.online[crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
@@ -547,7 +547,7 @@
 },
         {
             "Name": "🔵TIM SECURITY 01",
-"FLAG": "https://i.ibb.co/74NMdQ0/56254244b636.png",
+            "FLAG": "tim",
             "Payload": "[delay_split][lf]ACL / HTTP/1.1[lf]Host: [rotate= portal.vivo.com.br;portalrecarga.vivo.com.br/recarga/home/;meuplano.tim.com.br;www.vivo.com.br;buzzfeed.com;mobile.adobe.com;1.0.0.5;1.1.1.1;buzzfeed.com;myspace.com;mobile.google.com;1.0.0.5;spotify.com;pagamentonline.emis.co.ao;playwaze.com;wazer.com;soundwaze.com;escolas.playwaze.com;www.wazeunlimited.com;bucs.playwaze.com;ftp.chillwaze.com;unpkg.com;c6bank.com.br;helpypro.stoodi.com.br;atendimento.lojadointer.com.br;creatorsupport.deezer.com:80;itsupport.surveymonkey.com;linefriendshelp.zendesk.com;vivo.interflashplusvpnpro.cloud;m2.interflashplusvpnpro.cloud][crlf][crlf][crlf]",
             "SNI": "",
             "TlsIP": "",
@@ -557,7 +557,7 @@
             },
            {
             "Name": "🔵TIM SECURITY 02",
-"FLAG": "https://i.ibb.co/74NMdQ0/56254244b636.png",
+            "FLAG": "tim",
             "Payload": "[delay_split][lf]ACL / HTTP/1.1[lf]Host: 1.0.0.5[crlf][crlf][crlf]",
             "SNI": "",
             "TlsIP": "",
@@ -567,7 +567,7 @@
         },
        {
             "Name": "🔵TIM SECURITY 03",
-"FLAG": "https://i.ibb.co/74NMdQ0/56254244b636.png",
+            "FLAG": "tim",
             "Payload": "[delay_split]ACL / HTTP/1.1[crlf]Host: [host_port]@[rotate=portalrecarga.vivo.com.br;meuplano.tim.com.br;www.claro.com.br;buzzfeed.com;mobile.adobe.com;@ShelbyNet_Cloud_Servers][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]X-Online-Host: [rotate=portalrecarga.vivo.com.br;meuplano.tim.com.br;www.claro.com.br;buzzfeed.com;mobile.adobe.com;@ShelbyNet_Cloud_Servers][crlf]X-Forwarded-For: [rotate=portalrecarga.vivo.com.br;meuplano.tim.com.br;www.claro.com.br;buzzfeed.com;mobile.adobe.com;@ShelbyNet_Cloud_Servers][crlf]Connection: Keep-Alive[crlf]User-Agent: [ua][crlf]Referer: [rotate=portalrecarga.vivo.com.br;meuplano.tim.com.br;www.claro.com.br;buzzfeed.com;mobile.adobe.com;@ShelbyNet_Cloud_Servers][crlf]Upgrade: websocket[crlf][raw][crlf][crlf]",
             "SNI": "",
             "TlsIP": "",
@@ -577,7 +577,7 @@
         },
         {
             "Name": "🔵TIM SECURITY 04",
-"FLAG": "https://i.ibb.co/74NMdQ0/56254244b636.png",
+            "FLAG": "tim",
             "Payload": "[delay_split]ACL / HTTP/1.1[crlf]Host: [rotate=108.158.161.49;52.85.213.82;52.85.213.26;52.85.213.48;13.227.126.49;104.18.7.41;104.16.56.6][crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]",
             "SNI": "",
             "TlsIP": "",
@@ -587,7 +587,7 @@
         },
         {
             "Name": "🔵TIM/expirado/BR-07",
-"FLAG": "https://i.ibb.co/74NMdQ0/56254244b636.png",
+            "FLAG": "tim",
             "Payload": "[delay_split] ACL / HTTP/1.1[crlf]Host:[random=vivoproxy.lu.topnetx.online][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf]WKM: cdn37[crlf][crlf]",
             "SNI": "lu.topnetx.online",
             "TlsIP": "lu.topnetx.online",
@@ -597,7 +597,7 @@
         },
         {
       "Name": "🔵 TIM EXPIRADO DDDs",
-      "FLAG": "https://i.ibb.co/74NMdQ0/56254244b636.png",
+      "FLAG": "tim",
       "Payload": "HTTP/1.1[lf]HTTP/ [lf]Host: [rotate=www.flickr.com;foxnews.com;www.uc.com;tv.com;netfix.com;palcomp3.com;m.operamini.com;m.olx.com.br;www.sky.com;www.waze.com;ff.garena.com;www.hooq.tv;www.terra.com;salesrock.virginmobile.mx;www.yahoo.com;imgur.com;get.adobe.com;youtube.com;google.com;instagram.com;microsoft.com;akamai.net;1.cloudfront.net;www.dropbox.com][lf]",
       "SNI": "",
       "TlsIP": "lu.topnetx.online",
@@ -607,7 +607,7 @@
     },
         {
             "Name": "🔵TIM SECURITY 05",
-"FLAG": "https://i.ibb.co/74NMdQ0/56254244b636.png",
+            "FLAG": "tim",
             "Payload": "ACL / HTTP/1.1[crlf]Host: [rotate=mtls.sandbox.c6bank.com.br;www.c6bank.com.br;celular.c6bank.app;blog.c6bank.com.br;app.sandbox.c6bank.com.br;creatorsupport.deezer.com;pre-onboarding-p.c6bank.app][crlf]Expect: 100-continue[crlf][crlf][split][crlf][crlf]ACL / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Upgrade[crlf][crlf]",
             "SNI": "",
             "TlsIP": "",
@@ -617,7 +617,7 @@
         },
           {
             "Name": "🔵TIM NOVA 08 ",
-"FLAG": "https://i.ibb.co/74NMdQ0/56254244b636.png",
+            "FLAG": "tim",
             "Payload": "ACL / HTTP/1.3[crlf]Host: mtls.sandbox.c6bank.com.br[crlf]Expect: 100-continue[crlf][crlf][split][crlf][crlf]ACL- // HTTP/1.3[crlf]Host: [app_host][crlf]Expect: 100-continue[crlf]Upgrade: websocket[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf][crlf]",
             "SNI": "",
             "TlsIP": "",
@@ -627,7 +627,7 @@
         },
      {
             "Name": "🔵TIM EXPIRADO 1",
-"FLAG": "https://i.ibb.co/74NMdQ0/56254244b636.png",
+            "FLAG": "tim",
             "Payload": "HTTP/1.1[crlf] [crlf][crlf]•",
             "SNI": "",
             "TlsIP": "",
@@ -637,7 +637,7 @@
         },
         {
             "Name": "🔵TIM EXPIRADO 2",
-"FLAG": "https://i.ibb.co/74NMdQ0/56254244b636.png",
+            "FLAG": "tim",
             "Payload": "HTTP/1.1[crlf] [crlf][crlf]•",
             "SNI": "",
             "TlsIP": "",
@@ -647,7 +647,7 @@
         },
         {
             "Name": "🔵TIM EXPIRADO 3",
-"FLAG": "https://i.ibb.co/74NMdQ0/56254244b636.png",
+            "FLAG": "tim",
             "Payload": "HTTP/1.1[crlf] [crlf][crlf]•",
             "SNI": "",
             "TlsIP": "",
@@ -657,7 +657,7 @@
         },
 {
    "Name":"💚BRASIL💜",
-      "FLAG": "https://i.ibb.co/74NMdQ0/56254244b636.png"
+   "FLAG":"vivo",
    "Payload":"GET / HTTP/1.1[crlf]Host: [random=static.whatsapp.com;business.whatsapp.com;web.whatsapp.com;dns.web.whatsapp.com;m.twitter.com;m.waze.com;waze.com;www.waze.com][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
    "SNI":"",
    "TlsIP":"",
