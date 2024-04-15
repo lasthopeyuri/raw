@@ -1,647 +1,1774 @@
-{
-    "Version": "11",
-    "ReleaseNotes": "🏆 SEJA BEM VINDO AO PROJETO VITALÍCIO!!! 🏆",
-    "Sms": "https://bitbin.it/Qe9L1GzS/raw/",
-    "UrlUpdate": "",
-    "logoonline": "",
-    "fundoonline":"",
-    "EmailFeedback": "",
-    "UrlContato": "https://wa.me/5521",
-    "UrlTermos": "",
-    "CheckUser": "true",
-    "Udp": [
-    {
-      "Porta": "7300;7100;7200;7400;7500"
-    }
-
-    ],
-    "Servers": [
-	{
-      "Name": "🏆 VITALÍCIO(BL@CK) 🏆",
-      "TYPE": "Servidores Dedicados",
-      "FLAG": "https://i.ibb.co/MB4Krm4/ab7fe998e959.png",
-      "ServerIP": "lu.topnetx.online",
-      "CheckUser": "http://painel.topnetx.online/checkuser/conecta4g.php",
-      "ServerPort": "80",
-      "SSLPort": "443",
-      "USER": "ONFullLastHope",
-      "PASS": "LASTHOPE2024"
-    }
-],            
-  "Networks": [
-{
-"Name": "🟣VIVO-CLOUD💜",
-"FLAG": "vivo",
-"Payload": "GET / HTTP/1.1[crlf]Host: lu.topnetx.online[crlf]Origin: https://www.google.com, http://www.google.com[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive, Upgrade[crlf][crlf]",
-"SNI": "xvideos.com",
-"TlsIP": "",
-"ProxyIP": "lu.topnetx.online",
-"ProxyPort": "80",
-"Info": "Proxy"
-},
-
-{
-"Name": "🟣TIM CLOUDFIRE💜💜💜",
-"FLAG": "tim",
-"Payload": "GET / HTTP/1.1[crlf]Host: creatorsupport.deezer.com[crlf]Expect: 100-continue[crlf][crlf][split][crlf][crlf]PUT- // HTTP/1.1[crlf]Host: lu.topnetx.online[crlf]Expect: 100-continue[crlf]Upgrade: websocket[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf][crlf]",
-"SNI": "xvideos.com",
-"TlsIP": "",
-"ProxyIP": "lu.topnetx.online",
-"ProxyPort": "80",
-"Info": "Proxy"
-},
-{
-"Name": "🟣 VIVO NOVA 💜",
-"FLAG": "vivo",
-"Payload": "[delay_split][crlf][rotate=HEAD;GET;UPDATE;ACL;BDELETE;BMOVE;BPROPFIND;LOCK;MERGE;MKCOL;MOVE;NOTIFY;ORDERPATCH;PATCH;POLL;PROPFIND;SEARCH;SUBSCRIBE;UNSUBSCRIBE;UNLOCK] wss://xvideos.com/ HTTP/1.0[crlf]Host: [rotate=static.whatsapp.com;m.waze.com;business.whatsapp.com;web.whatsapp.com;dns.web.whatsapp.com;m.twitter.com;m.waze.com;waze.com;www.waze.com][crlf]Upgrade: Websocket[crlf]Proxy-Connection: Keep-Alive; Upgrade[crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf]@TSTOPSPEED[crlf][crlf]",
-"SNI": "xvideos.com",
-"TlsIP": "",
-"ProxyIP": "lu.topnetx.online",
-"ProxyPort": "80",
-"Info": "Proxy"
-},
-              {
-            "Name": "VIVO/PRE/BR-02",
-            "FLAG": "vivo",
-            "Payload": "[delay_split] ACL / HTTP/1.1[crlf]Host:[random= 104.18.6.80;104.18.7.80;162.159.138.6;162.159.128.7;104.17.70.206;104.17.71.206;104.17.72.206;104.17.73.206;104.17.74.206;172.64.144.109;104.18.43.147;104.18.7.41][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
-            "SNI": "lu.topnetx.online", 
-            "TlsIP": "lu.topnetx.online", 
-            "ProxyIP": "lu.topnetx.online",
-            "ProxyPort": "80",
-            "Info": "Proxy"
-        }, 
-       {
-"Name": "🟣 VIVO PRÉ 03 💜",
-"FLAG": "vivo",
-"Payload": "[delay_split]MERGE summit.adobe.com HTTP/1.1[crlf]Host: lu.topnetx.online[crlf]Connection: upgrade, Keep-Alive[crlf]Upgrade: HTTP/2.0[crlf]User-Agent: Googlebot/2.1 (+ http://www.google.com/bot.html)[crlf]Referer: http://www.google.com[crlf][crlf]",
-"SNI": "",
-"TlsIP": "",
-"ProxyIP": "lu.topnetx.online",
-"ProxyPort": "80",
-"Info": "Proxy"
-},
-
-{
-"Name": "🟣 VIVO PRÉ 03 💜",
-"FLAG": "vivo",
-"Payload": "[delay_split]GET https://tagmanager.google.com/[crlf]GET https://recarga.vivo.com.br HTTP/1.1[crlf]Host: http://recarga.vivo.com.br[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
-"SNI": "",
-"TlsIP": "",
-"ProxyIP": "lu.topnetx.online",
-"ProxyPort": "80",
-"Info": "Proxy"
-},
- 
-         {
-      "Name": "🎄 𝙑𝙄𝙑𝙊 02 ✅",
-      "FLAG": "vivo",
-      "Payload": "[delay_split]ACL / HTTP/1.1[crlf]Host: lu.topnetx.online[crlf]",
-      "SNI": "",
-      "TlsIP": "",
-      "ProxyIP": "lu.topnetx.online",
-      "ProxyPort": "80",
-      "Info": "Proxy"
-    },
-         {
-      "Name": "𝗩𝗜𝗩𝗢 TODOS DDDs ",
-      "FLAG": "vivo",
-      "Payload": "[split]ACL HTTP/1.9[crlf][crlf]QUIC/11:80 Ua[crlf]",
-      "SNI": "",
-      "TlsIP": "",
-      "ProxyIP": "lu.topnetx.online",
-      "ProxyPort": "80",
-      "Info": "proxy"
-},
-     {
-      "Name": "💜VIVO DDD19",
-      "FLAG": "vivo",
-      "Payload": "[delay_split]ACL AtlasN42/ HTTP/1.1[crlf]Host: lu.topnetx.online[crlf]Atualização: websocket[crlf][crlf]",
-      "SNI": "",
-      "TlsIP": "",
-      "ProxyIP": "lu.topnetx.online",
-      "ProxyPort": "80",
-      "Info": "Proxy"
-},
-            {
-            "Name": "VIVO/PRE/BR-04",
-            "FLAG": "vivo",
-            "Payload": "[delay_split]ACL / HTTP/1.1 [lf]Host: [rotate=download.cdn.viber.com;zoom .zynga.com;www.ebuddy.com;games.iqiyi.com;www.espn.com;wd.adcolony.com;www.s.ssacdn.com;www.youtube.com;www.au.download.windowsupdate .com;edge1-moblive.yuppcdn.net;get.espn.com;spiegel.de;shacar.lecloud.com;www.bradesco.com.br;ftp.br.debian.org:edge1-moblive.yuppcdn.net ;cnn.com;www.sina.com;mtalk.google.com;www.zoiper.com;www.skype.com;www.viddler.com][crlf]@APKNETFREE[crlf]",
-            "SNI": "lu.topnetx.online",
-            "SNI": "lu.topnetx.online",
-            "TlsIP": "lu.topnetx.online",
-            "ProxyIP": "lu.topnetx.online",
-            "ProxyPort": "80",
-            "Info": "Proxy"
-        },
-         {
-"Name": "🟣 VIVO PRÉ 11",
-"FLAG": "vivo.png",
-"Payload": "[delay_split]ACL / HTTP/1.1[crlf]Host: [rotate=104.16.51.111;104.19.239.25;104.16.53.111][crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]",
-"SNI": "",
-"TlsIP": "",
-"ProxyIP": "lu.topnetx.online",
-"ProxyPort": "80",
-"Info": "Proxy"
-},
-         {
-            "Name": "VIVO WSS 05(AGUARDE ATE CONECTAR)",
-            "FLAG": "vivo",
-            "Payload": "[delay_split][lf]ACL / HTTP/1.1 Websocket [lf]Host: [rotate= portal.vivo.com.br;portalrecarga.vivo.com.br/recarga/home/;meuplano.tim.com.br;www.vivo.com.br;buzzfeed.com;mobile.adobe.com;1.0.0.5;1.1.1.1;buzzfeed.com;myspace.com;mobile.google.com;1.0.0.5;spotify.com;pagamentonline.emis.co.ao;playwaze.com;wazer.com;soundwaze.com;escolas.playwaze.com;www.wazeunlimited.com;bucs.playwaze.com;ftp.chillwaze.com;unpkg.com;c6bank.com.br;helpypro.stoodi.com.br;atendimento.lojadointer.com.br;creatorsupport.deezer.com:80;itsupport.surveymonkey.com;linefriendshelp.zendesk.com;vivo.interflashplusvpnpro.cloud;m2.interflashplusvpnpro.cloud][crlf][crlf][crlf]",
-            "SNI": "",
-            "TlsIP": "",
-            "ProxyIP": "lu.topnetx.online",
-            "ProxyPort": "80",
-            "Info": "Proxy"
-        },
-        {
-            "Name": "VIVO WSS 06(AGUARDE ATE CONECTAR)",
-            "FLAG": "vivo",
-            "Payload": "[delay_split]ACL / HTTP/1.1[crlf]Host: [rotate=149.78.184.20;52.85.213.82;52.85.213.26;52.85.213.48;13.227.126.49;104.18.7.41;104.16.56.6][crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]",
-            "SNI": "lu.topnetx.online",
-            "TlsIP": "",
-            "ProxyIP": "lu.topnetx.online",
-            "ProxyPort": "80",
-            "Info": "Proxy"
-        },
-         {
-            "Name": "🟣 🇧🇷 𝑽𝑰𝑽𝑶 𝑷𝑹𝑶𝑿𝒀 [1]",
-            "FLAG": "vivo",
-            "Payload": "[delay_split]ACL TSTOPSPEED/ HTTP/1.1[crlf]Host: analytics.google.com[crlf]Upgrade: websocket[crlf][crlf]",
-            "SNI": "",
-            "TlsIP": "",
-            "ProxyIP": "lu.topnetx.online",
-            "ProxyPort": "80",
-            "Info": "Proxy"
-        },
-            {
-      "Name": "VIVO NEW 2 ",
-      "FLAG": "vivo",
-      "Payload": "[delay_split]ACL lu.topnetx.online:22 HTTP/1.1[crlf]Host: lu.topnetx.online[crlf]X-Online-Host: lu.topnetx.online[crlf]X-Forward-Host: lu.topnetx.online[crlf]Connection: Keep-Alive[crlf]User-Agent: [ua][crlf][crlf]",
-      "SNI": "",
-      "TlsIP": "",
-      "ProxyIP": "lu.topnetx.online",
-      "ProxyPort": "80",
-      "Info": "Proxy"
-      },
-          {
-            "Name": "🟣VIVO  - SECURITY IPV4🟣",
-            "FLAG": "vivo",
-      "Payload": "[delay_split]ACL AtlasN42/ HTTP/1.1[crlf]Host: lu.topnetx.online[crlf]Upgrade: websocket[crlf][crlf]",
-      "SNI": "",
-      "TlsIP": "",
-      "ProxyIP": "lu.topnetx.online",
-      "ProxyPort": "80",
-      "Info": "Proxy"
-        },
-           { 
-      "Name": "𝗩𝗜𝗩𝗢 TODOS DDDs [NOVA]", 
-      "FLAG": "vivo", 
-      "Payload": "[split][delay_split]ACL / /\n", 
-      "SNI": "", 
-      "TlsIP": "", 
-      "ProxyIP": "lu.topnetx.online", 
-      "ProxyPort": "80", 
-      "Info": "Proxy" 
-    },
- {
-      "Name": "VIVO 02 SECURITY DDD 27",
-      "FLAG": "vivo",
-      "Payload": "ACL http://1.1.1.1rotate=buzzfeed.com;mobile.adobe.com;1.0.0.5 HTTP/1.1[crlf]Host: http://1.1.1.1rotate=buzzfeed.com;myspace.com;mobile.google.com;1.0.0.5[crlf]",
-      "SNI": "",
-      "TlsIP": "",
-      "ProxyIP": "lu.topnetx.online",
-      "ProxyPort": "80",
-      "Info": "Proxy"
-        },
-    {
-      "Name": "➡️VIVO SECURITY ONLINE",
-      "FLAG": "vivo.png",
-      "Payload": "ACL //HOST; tata.mdv2raynet.209.14.16.38.67.345.789.-890.345.5.6 [random=13.249.98.114;13.249.98.48;13.249.98.55;13.249.98.11;18.64.207.35;18.64.207.86;18.64.207.48;18.64.207.62;65.9.55.52;65.9.55.100;65.9.55.7;65.9.55.13;99.86.74.84;99.86.74.24;99.86.74.88;99.86.74.101;143.204.29.108;143.204.29.87;143.204.29.93;143.204.29.15;108.138.246.54;108.138.246.86;108.138.246.16;108.138.246.42 ]",
-      "SNI": "",
-      "TlsIP": "",
-      "ProxyIP": "lu.topnetx.online",
-      "ProxyPort": "80",
-      "Info": "Proxy"
-   },
-            {  
-            "Name": "(OPÇÕES VIVO EASY👇)",
-            "FLAG": "easy",
-            "Payload": "[delay_split][lf]GET / HTTP/1.1[lf]Host: portal.vivo.com.br [lf]",
-            "SNI": "",
-            "TlsIP": "lu.topnetx.online",
-            "Proxy IP": "lu.topnetx.online",
-            "ProxyPort": "80",
-            "Info": "Proxy"
-        },
-         {
-            "Name": "VIVO EASY NOVA",
-            "FLAG": "vivo",
-            "Payload": "GET / HTTP/1.1[crlf]Host: lu.topnetx.online[crlf]Upgrade: websocket[crlf][crlf]",
-            "SNI": "lu.topnetx.online",
-            "TlsIP": "lu.topnetx.online",
-            "ProxyIP": "lu.topnetx.online",
-            "ProxyPort": "80",
-            "Info": "Proxy"
-        },
-           {
-            "Name": "VIVO EASY (DIÃRIAS MOOVIT ATIVAS) 01",
-            "FLAG": "vivo",
-            "Payload": "GET / HTTP/1.1[crlf]Host: lu.topnetx.online[crlf]Upgrade: Websocket[crlf]Connection: Upgrade[crlf][crlf]",
-            "SNI": "",
-            "TlsIP": "",
-            "ProxyIP": "lu.topnetx.online",
-            "ProxyPort": "80",
-            "Info": "Proxy"
-        }, 
-           {
-      "Name": "VIVO BRASIL EASY PRÉ 01", 
-      "FLAG": "vivo", 
-      "Payload": "ACL wss://lu.topnetx.online/ HTTP/1.1[crlf]Host: assine.vivo.com.br[crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]scottsshd[crlf][crlf]", 
-      "SNI": "", 
-      "TlsIP": "", 
-      "ProxyIP": "lu.topnetx.online", 
-      "ProxyPort": "80", 
-      "Info": "Proxy"
-    },
-{
-      "Name": "VIVO BRASIL EASY PRÉ 02", 
-      "FLAG": "vivo", 
-      "Payload": "ACL wss://lu.topnetx.online/ HTTP/1.1[crlf]Host: legado.vivo.com.br[crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]scottsshd[crlf][crlf]", 
-      "SNI": "", 
-      "TlsIP": "", 
-      "ProxyIP": "lu.topnetx.online", 
-      "ProxyPort": "80", 
-      "Info": "Proxy"
-    },
-{
-      "Name": "VIVO BRASIL EASY PRÉ 03", 
-      "FLAG": "vivo", 
-      "Payload": "ACL wss://lu.topnetx.online/ HTTP/1.1[crlf]Host: vivo360.vivo.com.br[crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]scottsshd[crlf][crlf]", 
-      "SNI": "", 
-      "TlsIP": "", 
-      "ProxyIP": "lu.topnetx.online", 
-      "ProxyPort": "80", 
-      "Info": "Proxy"
-    },   
-      {
-         "Name": "VIVO EASY [12]",
-      "FLAG": "vivo",
-      "Payload": "GET / HTTP/1.1[crlf]Host: lu.topnetx.online[crlf]Upgrade: websocket[crlf][crlf]",
-      "SNI": "",
-      "TlsIP": "",
-      "ProxyIP": "lu.topnetx.online",
-      "ProxyPort": "80",
-      "Info": "Proxy"
-    },
-    {
-      "Name": "VIVO EASY - [13]",
-      "FLAG": "vivo",
-      "Payload": "GET / HTTP/1.1[crlf]Host: lu.topnetx.online[crlf]Upgrade: websocket[crlf][crlf]",
-      "SNI": "",
-      "TlsIP": "",
-      "ProxyIP": "lu.topnetx.online",
-      "ProxyPort": "80",
-      "Info": "Proxy"
-    },
-    {
-      "Name": "VIVO EASY - [14]",
-      "FLAG": "vivo",
-      "Payload": "GET / HTTP/1.1[crlf]Host: lu.topnetx.online[crlf]Upgrade: websocket[crlf][crlf]",
-      "SNI": "",
-      "TlsIP": "",
-      "ProxyIP": "lu.topnetx.online",
-      "ProxyPort": "80",
-      "Info": "Proxy"
-    },
-    {
-      "Name": "VIVO EASY - [15]",
-      "FLAG": "vivo",
-      "Payload": "GET / HTTP/1.1[crlf]Host: lu.topnetx.online[crlf]Upgrade: websocket[crlf][crlf]",
-      "SNI": "",
-      "TlsIP": "",
-      "ProxyIP": "104.18.7.41",
-      "ProxyPort": "80",
-      "Info": "Proxy"
-    },
-    {
-      "Name": " VIVO EASY - [16]",
-      "FLAG": "vivo",
-      "Payload": "GET / HTTP/1.1[crlf]Host: lu.topnetx.online[crlf]Upgrade: websocket[crlf][crlf]",
-      "SNI": "",
-      "TlsIP": "",
-      "ProxyIP": "104.16.51.111",
-      "ProxyPort": "80",
-      "Info": "Proxy"
-    },
-          {  
-            "Name": "(OPÇÕES TIM SALDO VÁLIDO👇)",
-            "FLAG": "easy",
-            "Payload": "[delay_split][lf]GET / HTTP/1.1[lf]Host: portal.vivo.com.br [lf]",
-            "SNI": "",
-            "TlsIP": "lu.topnetx.online",
-            "Proxy IP": "lu.topnetx.online",
-            "ProxyPort": "80",
-            "Info": "Proxy"
-        },
-         {
-      "Name": "TIM NOVA",
-      "FLAG": "tim.png",
-      "Payload": "PATCH / HTTP/1.1[lf]Host: lu.topnetx.online[lf]Upgrade: Websocket[lf]User-Agent: Mobile Safari/9 OPR/9[lf][split][lf]",
-      "SNI": "",
-      "TlsIP": "",
-      "ProxyIP": "81.28.14.14",
-      "ProxyPort": "80",
-      "Info": "Proxy"
-   },
-         {
-            "Name": "👥TIM BRASIL 09👥",
-            "FLAG": "tim",
-            "Payload": "ACL /cdn-cgi/trace HTTP/1.1[crlf]Host: descomplica.com.br[crlf][crlf][split][crlf][crlf]ACL / HTTP/1.1[crlf]Host: [app_host][crlf]User-Agent: Mobile Safari/9 OPR/9 [crlf]Upgrade: websocket[crlf][crlf]",
-            "SNI": "",
-            "TlsIP": "",
-            "ProxyIP": "104.19.240.93",
-            "ProxyPort": "80",
-            "Info": "Proxy"
-        },
-        {
-            "Name": "TIM A BR 02",
-            "FLAG": "tim",
-            "Payload": "ACL /cdn-cgi/trace HTTP/1.1[crlf]Host: descomplica.com.br[crlf][crlf][split][crlf][crlf]ACL / HTTP/1.1[crlf]Host: [app_host][crlf]User-Agent: Mobile Safari/9 OPR/9 [crlf]Upgrade: websocket[crlf][crlf]",
-            "SNI": "",
-            "TlsIP": "",
-            "ProxyIP": "104.19.241.93",
-            "ProxyPort": "80",
-            "Info": "Proxy"
-        },
-         {
-            "Name": "🔵TIM CLOUD 3 📳DDD 11/21📳 🔵",
-            "FLAG": "tim",
-            "Payload": "ACL / HTTP/1.3[crlf]Host: mtls.sandbox.c6bank.com.br[crlf]Expect: 100-continue[crlf][crlf][split][crlf][crlf]ACL- // HTTP/1.3[crlf]Host: [app_host][crlf]Expect: 100-continue[crlf]Upgrade: websocket[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf][crlf]",
-            "SNI": "",
-            "TlsIP": "",
-            "ProxyIP": "mobile.c6bank.app",
-            "ProxyPort": "80",
-            "Info": "Proxy"
-        },
-        {
-            "Name": "TIM NOVA 05 ",
-            "FLAG": "tim",
-            "Payload": "ACL / HTTP/1.3[crlf]Host: mtls.sandbox.c6bank.com.br[crlf]Expect: 100-continue[crlf][crlf][split][crlf][crlf]ACL- // HTTP/1.3[crlf]Host: [app_host][crlf]Expect: 100-continue[crlf]Upgrade: websocket[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf][crlf]",
-            "SNI": "",
-            "TlsIP": "",
-            "ProxyIP": "pre-onboarding-p.c6bank.app",
-            "ProxyPort": "80",
-            "Info": "Proxy"
-        },
-        {
-                "Name": "NOVA TIM SALDO VÁLIDO RAPIDA 6",
-                "FLAG": "tim",
-                "Payload": "ACL / HTTP/1.1[crlf]Host: lu.topnetx.online[crlf]Upgrade: websocket[crlf][crlf]",
-                "SNI": "",
-                "TlsIP": "",
-                "ProxyIP": "104.18.33.113",
-                "ProxyPort": "80",
-                "Info": "Proxy"     
-          },
-         {
-          "Name":"🔵 𝐓𝐈𝐌 07🚀",
-         "FLAG":"tim",
-       "Payload":"ACL / HTTP/1.1[crlf]Host: lu.topnetx.online[crlf]Upgrade: websocket[crlf][crlf]",
-            "SNI": "",
-            "TlsIP": "",
-            "ProxyIP": "pre-onboarding-p.c6bank.app",
-            "ProxyPort": "80",
-            "Info": "Proxy"
-                     },
-  {  
-            "Name": "(OPÇÕES TIM SALDO EXPIRADO👇)",
-            "FLAG": "easy",
-            "Payload": "[delay_split][lf]GET / HTTP/1.1[lf]Host: portal.vivo.com.br [lf]",
-            "SNI": "",
-            "TlsIP": "lu.topnetx.online",
-            "Proxy IP": "lu.topnetx.online",
-            "ProxyPort": "80",
-            "Info": "Proxy"
-        },
-     {
-            "Name": "╰┈[☞>🔵TIM EXPIRADO ONLINE 04 ",
-            "FLAG": "tim",
-            "Payload": "ACL / HTTP/1.1[crlf]Host: lu.topnetx.online[crlf]Upgrade: websocket[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf]@fenixnetbr[crlf][crlf]",
-            "SNI": "",
-            "TlsIP": "",
-            "ProxyIP": "activo0.zendesk.com",
-            "ProxyPort": "80",
-            "Info": "Proxy"
-        },
-        {
-            "Name": "╰┈[☞>🔵TIM EXPIRADO ONLINE 05",
-            "FLAG": "tim",
-            "Payload": "ACL / HTTP/1.1[crlf]Host: lu.topnetx.online[crlf]Upgrade: websocket[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf]@fenixnetbr[crlf][crlf]",
-            "SNI": "",
-            "TlsIP": "",
-            "ProxyIP": "academy.help.ensighten.com",
-            "ProxyPort": "80",
-            "Info": "Proxy"
-        },
-         {
-            "Name": "TIM EXPIRADO API ",
-            "FLAG": "tim",
-            "Payload": "ACL / HTTP/1.3[crlf]Host: login-homebroker.c6bank.com.br [crlf]Expect: 100-continue[crlf][crlf][split][crlf][crlf]ACL- // HTTP/1.3[crlf]Host: [app_host][crlf]Expect: 100-continue[crlf]Upgrade: websocket[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf][crlf]",
-            "SNI": "",
-            "TlsIP": "",
-            "ProxyIP": "lu.topnetx.online",
-            "ProxyPort": "80",
-            "Info": "Proxy"
-        },
-              {
-            "Name": "TIM 2 ",
-      "FLAG": "tim",
-      "Payload": "ACL / HTTP/1.2[crlf]Host: www.hostingadvice.com[crlf]Expect: 100-continue[crlf][crlf][split][crlf][crlf]GET- // HTTP/1.1[crlf]Host: [app_host][crlf]Expect: 100-continue[crlf]Upgrade: websocket[crlf]User-Agent: Googlebot/3.1 (+http://www.google.com/bot.html)[crlf][crlf]",
-      "SNI": "",
-      "TlsIP": "",
-      "ProxyIP": "lu.topnetx.online",
-      "ProxyPort": "80",
-      "Info": "Proxy"
-        },
-              {
-    "Name": "TIM ● FUNCIONA COM CRÉDITO EXPIRADO OU VÁLIDO ",
-            "FLAG": "tim",
-            "Payload": "ACL / HTTP/1.1[crlf]Host: lu.topnetx.online[crlf]Upgrade: websocket[crlf][crlf]",
-            "SNI": "",
-            "TlsIP": "",
-            "ProxyIP": "104.16.239.166",
-            "ProxyPort": "80",
-            "Info": "Proxy"
-    },
-            {
-             "Name": "🔵TIM EXPIRADO E VALIDO 02",
-            "FLAG": "tim",
-            "Payload": "ACL /wss.html HTTP/1.1[crlf]Host: lu.topnetx.online[crlf]Origin: https://www.google.com, http://www.google.com[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive, Upgrade[crlf][crlf]",
-            "SNI": "",
-            "TlsIP": "",
-            "ProxyIP": "znayp2saezuftgygo-mercadolibre.siteintercept.qualtrics.com",
-            "ProxyPort": "80",
-            "Info": "Proxy"
-      },
-          {
-            "Name": "🔵TIM CLOUD 4 📳DDD 11/21📳 🔵",
-            "FLAG": "tim",
-            "Payload": "ACL / HTTP/1.3[crlf]Host: mtls.sandbox.c6bank.com.br[crlf]Expect: 100-continue[crlf][crlf][split][crlf][crlf]ACL- // HTTP/1.3[crlf]Host: [app_host][crlf]Expect: 100-continue[crlf]Upgrade: websocket[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf][crlf]",
-            "SNI": "",
-            "TlsIP": "",
-            "ProxyIP": "lu.topnetx.online",
-            "ProxyPort": "80",
-            "Info": "Proxy"
-        },
-         {
-"Name":"TIM PRÉ MB [11]",
-      "FLAG": "tim",
-      "Payload": "ACL / HTTP/1.1[crlf]Host: lu.topnetx.online[crlf]Upgrade: websocket[crlf][crlf]",
-      "SNI": "",
-      "TlsIP": "",
-      "ProxyIP": "104.18.98.70#lu.topnetx.online",
-      "ProxyPort": "80",
-      "Info": "Proxy"
-},
-    {
-      "Name": "TIM BLAK",
-       "FLAG": "tim",
-       "Payload": "ACL / HTTP/1.1[crlf]Host: lu.topnetx.online[crlf]Upgrade: websocket[crlf][crlf]",
-       "SNI": "",
-       "TlsIP": "",
-       "ProxyIP": "104.18.99.70#lu.topnetx.online",
-       "ProxyPort": "80",
-       "Info": "Proxy"
-    },
-         {
-      "Name": " TIM MOBILE",
-      "FLAG": "tim",
-      "Payload": "ACL / HTTP/1.1[crlf]Host: lu.topnetx.online[crlf]Upgrade: websocket[crlf][crlf]",
-      "SNI": "",
-      "TlsIP": "",
-      "ProxyIP": "104.16.53.111#lu.topnetx.online",
-      "ProxyPort": "80",
-      "Info": "Proxy"
-},
-        {
-            "Name": "TIM SECURITY 01",
-            "FLAG": "tim",
-            "Payload": "[delay_split][lf]ACL / HTTP/1.1[lf]Host: [rotate= portal.vivo.com.br;portalrecarga.vivo.com.br/recarga/home/;meuplano.tim.com.br;www.vivo.com.br;buzzfeed.com;mobile.adobe.com;1.0.0.5;1.1.1.1;buzzfeed.com;myspace.com;mobile.google.com;1.0.0.5;spotify.com;pagamentonline.emis.co.ao;playwaze.com;wazer.com;soundwaze.com;escolas.playwaze.com;www.wazeunlimited.com;bucs.playwaze.com;ftp.chillwaze.com;unpkg.com;c6bank.com.br;helpypro.stoodi.com.br;atendimento.lojadointer.com.br;creatorsupport.deezer.com:80;itsupport.surveymonkey.com;linefriendshelp.zendesk.com;vivo.interflashplusvpnpro.cloud;m2.interflashplusvpnpro.cloud][crlf][crlf][crlf]",
-            "SNI": "",
-            "TlsIP": "",
-            "ProxyIP": "lu.topnetx.online",
-            "ProxyPort": "80",
-            "Info": "Proxy"
-            },
-           {
-            "Name": "TIM SECURITY 02",
-            "FLAG": "tim",
-            "Payload": "[delay_split][lf]ACL / HTTP/1.1[lf]Host: 1.0.0.5[crlf][crlf][crlf]",
-            "SNI": "",
-            "TlsIP": "",
-            "ProxyIP": "lu.topnetx.online",
-            "ProxyPort": "80",
-            "Info": "Proxy"
-        },
-       {
-            "Name": "TIM SECURITY 03",
-            "FLAG": "tim",
-            "Payload": "[delay_split]ACL / HTTP/1.1[crlf]Host: [host_port]@[rotate=portalrecarga.vivo.com.br;meuplano.tim.com.br;www.claro.com.br;buzzfeed.com;mobile.adobe.com;@ShelbyNet_Cloud_Servers][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]X-Online-Host: [rotate=portalrecarga.vivo.com.br;meuplano.tim.com.br;www.claro.com.br;buzzfeed.com;mobile.adobe.com;@ShelbyNet_Cloud_Servers][crlf]X-Forwarded-For: [rotate=portalrecarga.vivo.com.br;meuplano.tim.com.br;www.claro.com.br;buzzfeed.com;mobile.adobe.com;@ShelbyNet_Cloud_Servers][crlf]Connection: Keep-Alive[crlf]User-Agent: [ua][crlf]Referer: [rotate=portalrecarga.vivo.com.br;meuplano.tim.com.br;www.claro.com.br;buzzfeed.com;mobile.adobe.com;@ShelbyNet_Cloud_Servers][crlf]Upgrade: websocket[crlf][raw][crlf][crlf]",
-            "SNI": "",
-            "TlsIP": "",
-            "ProxyIP": "lu.topnetx.online",
-            "ProxyPort": "80",
-            "Info": "Proxy"
-        },
-        {
-            "Name": "TIM SECURITY 04",
-            "FLAG": "tim",
-            "Payload": "[delay_split]ACL / HTTP/1.1[crlf]Host: [rotate=108.158.161.49;52.85.213.82;52.85.213.26;52.85.213.48;13.227.126.49;104.18.7.41;104.16.56.6][crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]",
-            "SNI": "",
-            "TlsIP": "",
-            "ProxyIP": "lu.topnetx.online",
-            "ProxyPort": "80",
-            "Info": "Proxy"
-        },
-        {
-            "Name": "TIM/expirado/BR-07",
-            "FLAG": "tim",
-            "Payload": "[delay_split] ACL / HTTP/1.1[crlf]Host:[random=vivoproxy.lu.topnetx.online][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf]WKM: cdn37[crlf][crlf]",
-            "SNI": "lu.topnetx.online",
-            "TlsIP": "lu.topnetx.online",
-            "ProxyIP": "lu.topnetx.online",
-            "ProxyPort": "80",
-            "Info": "Proxy"
-        },
-        {
-      "Name": "🔵 TIM EXPIRADO DDDs",
-      "FLAG": "tim",
-      "Payload": "HTTP/1.1[lf]HTTP/ [lf]Host: [rotate=www.flickr.com;foxnews.com;www.uc.com;tv.com;netfix.com;palcomp3.com;m.operamini.com;m.olx.com.br;www.sky.com;www.waze.com;ff.garena.com;www.hooq.tv;www.terra.com;salesrock.virginmobile.mx;www.yahoo.com;imgur.com;get.adobe.com;youtube.com;google.com;instagram.com;microsoft.com;akamai.net;1.cloudfront.net;www.dropbox.com][lf]",
-      "SNI": "",
-      "TlsIP": "lu.topnetx.online",
-      "ProxyIP": "lu.topnetx.online",
-      "ProxyPort": "80",
-      "Info": "Proxy"
-    },
-        {
-            "Name": "TIM SECURITY 05",
-            "FLAG": "tim",
-            "Payload": "ACL / HTTP/1.1[crlf]Host: [rotate=mtls.sandbox.c6bank.com.br;www.c6bank.com.br;celular.c6bank.app;blog.c6bank.com.br;app.sandbox.c6bank.com.br;creatorsupport.deezer.com;pre-onboarding-p.c6bank.app][crlf]Expect: 100-continue[crlf][crlf][split][crlf][crlf]ACL / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Upgrade[crlf][crlf]",
-            "SNI": "",
-            "TlsIP": "",
-            "ProxyIP": "lu.topnetx.online",
-            "ProxyPort": "80",
-            "Info": "Proxy"
-        },
-          {
-            "Name": "TIM NOVA 08 ",
-            "FLAG": "tim",
-            "Payload": "ACL / HTTP/1.3[crlf]Host: mtls.sandbox.c6bank.com.br[crlf]Expect: 100-continue[crlf][crlf][split][crlf][crlf]ACL- // HTTP/1.3[crlf]Host: [app_host][crlf]Expect: 100-continue[crlf]Upgrade: websocket[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf][crlf]",
-            "SNI": "",
-            "TlsIP": "",
-            "ProxyIP": "pre-onboarding-p.c6bank.app#lu.topnetx.online",
-            "ProxyPort": "80",
-            "Info": "Proxy"
-        },
-     {
-            "Name": "TIM EXPIRADO 1",
-            "FLAG": "tim",
-            "Payload": "HTTP/1.1[crlf] [crlf][crlf]•",
-            "SNI": "",
-            "TlsIP": "",
-            "ProxyIP": "lu.topnetx.online",
-            "ProxyPort": "80",
-            "Info": "Proxy"
-        },
-        {
-            "Name": "TIM EXPIRADO 2",
-            "FLAG": "tim",
-            "Payload": "HTTP/1.1[crlf] [crlf][crlf]•",
-            "SNI": "",
-            "TlsIP": "",
-            "ProxyIP": "lu.topnetx.online",
-            "ProxyPort": "80",
-            "Info": "Proxy"
-        },
-        {
-            "Name": "TIM EXPIRADO 3",
-            "FLAG": "tim",
-            "Payload": "HTTP/1.1[crlf] [crlf][crlf]•",
-            "SNI": "",
-            "TlsIP": "",
-            "ProxyIP": "lu.topnetx.online",
-            "ProxyPort": "80",
-            "Info": "Proxy"
-        },
-{
-   "Name":"💚BRASIL💜",
-   "FLAG":"vivo",
-   "Payload":"GET / HTTP/1.1[crlf]Host: [random=static.whatsapp.com;business.whatsapp.com;web.whatsapp.com;dns.web.whatsapp.com;m.twitter.com;m.waze.com;waze.com;www.waze.com][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
-   "SNI":"",
-   "TlsIP":"",
-   "ProxyIP":"209.14.2.218#lu.topnetx.online",
-   "ProxyPort":"80",
-   "Info":"Proxy"
-}
- ]
-}
+7B0D0A202020202256657273696F6E22
+3A20223132222C0D0A20202020225265
+6C656173654E6F746573223A2022F09F
+8F862053454A412042454D2056494E44
+4F20414F2050524F4A45544F20564954
+414CC38D43494F21212120F09F8F8622
+2C0D0A2020202022536D73223A202268
+747470733A2F2F62697462696E2E6974
+2F5165394C31477A532F7261772F222C
+0D0A202020202255726C557064617465
+223A2022222C0D0A20202020226C6F67
+6F6F6E6C696E65223A2022222C0D0A20
+2020202266756E646F6F6E6C696E6522
+3A22222C0D0A2020202022456D61696C
+466565646261636B223A2022222C0D0A
+202020202255726C436F6E7461746F22
+3A202268747470733A2F2F77612E6D65
+2F35353231222C0D0A20202020225572
+6C5465726D6F73223A2022222C0D0A20
+20202022436865636B55736572223A20
+2274727565222C0D0A20202020225564
+70223A205B0D0A202020207B0D0A2020
+2020202022506F727461223A20223733
+30303B373130303B373230303B373430
+303B37353030220D0A202020207D0D0A
+0D0A202020205D2C0D0A202020202253
+657276657273223A205B0D0A097B0D0A
+202020202020224E616D65223A2022F0
+9F8F8620564954414CC38D43494F2842
+4C40434B2920F09F8F86222C0D0A2020
+202020202254595045223A2022536572
+7669646F72657320446564696361646F
+73222C0D0A20202020202022464C4147
+223A202268747470733A2F2F692E6962
+622E636F2F4D42344B726D342F616237
+6665393938653935392E706E67222C0D
+0A202020202020225365727665724950
+223A20226C752E746F706E6574782E6F
+6E6C696E65222C0D0A20202020202022
+436865636B55736572223A2022687474
+703A2F2F7061696E656C2E746F706E65
+74782E6F6E6C696E652F636865636B75
+7365722F636F6E6563746134672E7068
+70222C0D0A2020202020202253657276
+6572506F7274223A20223830222C0D0A
+2020202020202253534C506F7274223A
+2022343433222C0D0A20202020202022
+55534552223A20224F4E46756C6C4C61
+7374486F7065222C0D0A202020202020
+2250415353223A20224C415354484F50
+4532303234220D0A202020207D0D0A5D
+2C2020202020202020202020200D0A20
+20224E6574776F726B73223A205B0D0A
+7B0D0A224E616D65223A2022F09F9FA3
+5649564F2D434C4F5544F09F929C222C
+0D0A22464C4147223A20227669766F22
+2C0D0A225061796C6F6164223A202247
+4554202F20485454502F312E315B6372
+6C665D486F73743A206C752E746F706E
+6574782E6F6E6C696E655B63726C665D
+4F726967696E3A2068747470733A2F2F
+7777772E676F6F676C652E636F6D2C20
+687474703A2F2F7777772E676F6F676C
+652E636F6D5B63726C665D557365722D
+4167656E743A20476F6F676C65626F74
+2F322E3120282B687474703A2F2F7777
+772E676F6F676C652E636F6D2F626F74
+2E68746D6C295B63726C665D55706772
+6164653A20576562736F636B65745B63
+726C665D436F6E6E656374696F6E3A20
+4B6565702D416C6976652C2055706772
+6164655B63726C665D5B63726C665D22
+2C0D0A22534E49223A20227876696465
+6F732E636F6D222C0D0A22546C734950
+223A2022222C0D0A2250726F78794950
+223A20226C752E746F706E6574782E6F
+6E6C696E65222C0D0A2250726F787950
+6F7274223A20223830222C0D0A22496E
+666F223A202250726F7879220D0A7D2C
+0D0A0D0A7B0D0A224E616D65223A2022
+F09F9FA354494D20434C4F5544464952
+45F09F929CF09F929CF09F929C222C0D
+0A22464C4147223A202274696D222C0D
+0A225061796C6F6164223A2022474554
+202F20485454502F312E315B63726C66
+5D486F73743A2063726561746F727375
+70706F72742E6465657A65722E636F6D
+5B63726C665D4578706563743A203130
+302D636F6E74696E75655B63726C665D
+5B63726C665D5B73706C69745D5B6372
+6C665D5B63726C665D5055542D202F2F
+20485454502F312E315B63726C665D48
+6F73743A206C752E746F706E6574782E
+6F6E6C696E655B63726C665D45787065
+63743A203130302D636F6E74696E7565
+5B63726C665D557067726164653A2077
+6562736F636B65745B63726C665D5573
+65722D4167656E743A20476F6F676C65
+626F742F322E3120282B687474703A2F
+2F7777772E676F6F676C652E636F6D2F
+626F742E68746D6C295B63726C665D5B
+63726C665D222C0D0A22534E49223A20
+2278766964656F732E636F6D222C0D0A
+22546C734950223A2022222C0D0A2250
+726F78794950223A20226C752E746F70
+6E6574782E6F6E6C696E65222C0D0A22
+50726F7879506F7274223A2022383022
+2C0D0A22496E666F223A202250726F78
+79220D0A7D2C0D0A7B0D0A224E616D65
+223A2022F09F9FA3205649564F204E4F
+564120F09F929C222C0D0A22464C4147
+223A20227669766F222C0D0A22506179
+6C6F6164223A20225B64656C61795F73
+706C69745D5B63726C665D5B726F7461
+74653D484541443B4745543B55504441
+54453B41434C3B4244454C4554453B42
+4D4F56453B4250524F5046494E443B4C
+4F434B3B4D455247453B4D4B434F4C3B
+4D4F56453B4E4F544946593B4F524445
+5250415443483B50415443483B504F4C
+4C3B50524F5046494E443B5345415243
+483B5355425343524942453B554E5355
+425343524942453B554E4C4F434B5D20
+7773733A2F2F78766964656F732E636F
+6D2F20485454502F312E305B63726C66
+5D486F73743A205B726F746174653D73
+74617469632E77686174736170702E63
+6F6D3B6D2E77617A652E636F6D3B6275
+73696E6573732E77686174736170702E
+636F6D3B7765622E7768617473617070
+2E636F6D3B646E732E7765622E776861
+74736170702E636F6D3B6D2E74776974
+7465722E636F6D3B6D2E77617A652E63
+6F6D3B77617A652E636F6D3B7777772E
+77617A652E636F6D5D5B63726C665D55
+7067726164653A20576562736F636B65
+745B63726C665D50726F78792D436F6E
+6E656374696F6E3A204B6565702D416C
+6976653B20557067726164655B63726C
+665D436F6E6E656374696F6E3A205570
+67726164655B63726C665D5570677261
+64653A20776562736F636B65745B6372
+6C665D405453544F5053504545445B63
+726C665D5B63726C665D222C0D0A2253
+4E49223A202278766964656F732E636F
+6D222C0D0A22546C734950223A202222
+2C0D0A2250726F78794950223A20226C
+752E746F706E6574782E6F6E6C696E65
+222C0D0A2250726F7879506F7274223A
+20223830222C0D0A22496E666F223A20
+2250726F7879220D0A7D2C0D0A202020
+20202020202020202020207B0D0A2020
+20202020202020202020224E616D6522
+3A20225649564F2F5052452F42522D30
+32222C0D0A2020202020202020202020
+2022464C4147223A20227669766F222C
+0D0A2020202020202020202020202250
+61796C6F6164223A20225B64656C6179
+5F73706C69745D2041434C202F204854
+54502F312E315B63726C665D486F7374
+3A5B72616E646F6D3D203130342E3138
+2E362E38303B3130342E31382E372E38
+303B3136322E3135392E3133382E363B
+3136322E3135392E3132382E373B3130
+342E31372E37302E3230363B3130342E
+31372E37312E3230363B3130342E3137
+2E37322E3230363B3130342E31372E37
+332E3230363B3130342E31372E37342E
+3230363B3137322E36342E3134342E31
+30393B3130342E31382E34332E313437
+3B3130342E31382E372E34315D5B6372
+6C665D436F6E6E656374696F6E3A2055
+7067726164655B63726C665D55706772
+6164653A20576562736F636B65745B63
+726C665D5B63726C665D222C0D0A2020
+2020202020202020202022534E49223A
+20226C752E746F706E6574782E6F6E6C
+696E65222C200D0A2020202020202020
+2020202022546C734950223A20226C75
+2E746F706E6574782E6F6E6C696E6522
+2C200D0A202020202020202020202020
+2250726F78794950223A20226C752E74
+6F706E6574782E6F6E6C696E65222C0D
+0A202020202020202020202020225072
+6F7879506F7274223A20223830222C0D
+0A20202020202020202020202022496E
+666F223A202250726F7879220D0A2020
+2020202020207D2C200D0A2020202020
+20207B0D0A224E616D65223A2022F09F
+9FA3205649564F205052C38920303320
+F09F929C222C0D0A22464C4147223A20
+227669766F222C0D0A225061796C6F61
+64223A20225B64656C61795F73706C69
+745D4D455247452073756D6D69742E61
+646F62652E636F6D20485454502F312E
+315B63726C665D486F73743A206C752E
+746F706E6574782E6F6E6C696E655B63
+726C665D436F6E6E656374696F6E3A20
+757067726164652C204B6565702D416C
+6976655B63726C665D55706772616465
+3A20485454502F322E305B63726C665D
+557365722D4167656E743A20476F6F67
+6C65626F742F322E3120282B20687474
+703A2F2F7777772E676F6F676C652E63
+6F6D2F626F742E68746D6C295B63726C
+665D526566657265723A20687474703A
+2F2F7777772E676F6F676C652E636F6D
+5B63726C665D5B63726C665D222C0D0A
+22534E49223A2022222C0D0A22546C73
+4950223A2022222C0D0A2250726F7879
+4950223A20226C752E746F706E657478
+2E6F6E6C696E65222C0D0A2250726F78
+79506F7274223A20223830222C0D0A22
+496E666F223A202250726F7879220D0A
+7D2C0D0A0D0A7B0D0A224E616D65223A
+2022F09F9FA3205649564F205052C389
+20303320F09F929C222C0D0A22464C41
+47223A20227669766F222C0D0A225061
+796C6F6164223A20225B64656C61795F
+73706C69745D4745542068747470733A
+2F2F7461676D616E616765722E676F6F
+676C652E636F6D2F5B63726C665D4745
+542068747470733A2F2F726563617267
+612E7669766F2E636F6D2E6272204854
+54502F312E315B63726C665D486F7374
+3A20687474703A2F2F72656361726761
+2E7669766F2E636F6D2E62725B63726C
+665D436F6E6E656374696F6E3A205570
+67726164655B63726C665D5570677261
+64653A20576562736F636B65745B6372
+6C665D5B63726C665D222C0D0A22534E
+49223A2022222C0D0A22546C73495022
+3A2022222C0D0A2250726F7879495022
+3A20226C752E746F706E6574782E6F6E
+6C696E65222C0D0A2250726F7879506F
+7274223A20223830222C0D0A22496E66
+6F223A202250726F7879220D0A7D2C0D
+0A200D0A2020202020202020207B0D0A
+202020202020224E616D65223A2022F0
+9F8E8420F09D9991F09D9984F09D9991
+F09D998A20303220E29C85222C0D0A20
+202020202022464C4147223A20227669
+766F222C0D0A20202020202022506179
+6C6F6164223A20225B64656C61795F73
+706C69745D41434C202F20485454502F
+312E315B63726C665D486F73743A206C
+752E746F706E6574782E6F6E6C696E65
+5B63726C665D222C0D0A202020202020
+22534E49223A2022222C0D0A20202020
+202022546C734950223A2022222C0D0A
+2020202020202250726F78794950223A
+20226C752E746F706E6574782E6F6E6C
+696E65222C0D0A202020202020225072
+6F7879506F7274223A20223830222C0D
+0A20202020202022496E666F223A2022
+50726F7879220D0A202020207D2C0D0A
+2020202020202020207B0D0A20202020
+2020224E616D65223A2022F09D97A9F0
+9D979CF09D97A9F09D97A220544F444F
+53204444447320222C0D0A2020202020
+2022464C4147223A20227669766F222C
+0D0A202020202020225061796C6F6164
+223A20225B73706C69745D41434C2048
+5454502F312E395B63726C665D5B6372
+6C665D515549432F31313A3830205561
+5B63726C665D222C0D0A202020202020
+22534E49223A2022222C0D0A20202020
+202022546C734950223A2022222C0D0A
+2020202020202250726F78794950223A
+20226C752E746F706E6574782E6F6E6C
+696E65222C0D0A202020202020225072
+6F7879506F7274223A20223830222C0D
+0A20202020202022496E666F223A2022
+70726F7879220D0A7D2C0D0A20202020
+207B0D0A202020202020224E616D6522
+3A2022F09F929C5649564F2044444431
+39222C0D0A20202020202022464C4147
+223A20227669766F222C0D0A20202020
+2020225061796C6F6164223A20225B64
+656C61795F73706C69745D41434C2041
+746C61734E34322F20485454502F312E
+315B63726C665D486F73743A206C752E
+746F706E6574782E6F6E6C696E655B63
+726C665D417475616C697A61C3A7C3A3
+6F3A20776562736F636B65745B63726C
+665D5B63726C665D222C0D0A20202020
+202022534E49223A2022222C0D0A2020
+2020202022546C734950223A2022222C
+0D0A2020202020202250726F78794950
+223A20226C752E746F706E6574782E6F
+6E6C696E65222C0D0A20202020202022
+50726F7879506F7274223A2022383022
+2C0D0A20202020202022496E666F223A
+202250726F7879220D0A7D2C0D0A2020
+202020202020202020207B0D0A202020
+202020202020202020224E616D65223A
+20225649564F2F5052452F42522D3034
+222C0D0A202020202020202020202020
+22464C4147223A20227669766F222C0D
+0A202020202020202020202020225061
+796C6F6164223A20225B64656C61795F
+73706C69745D41434C202F2048545450
+2F312E31205B6C665D486F73743A205B
+726F746174653D646F776E6C6F61642E
+63646E2E76696265722E636F6D3B7A6F
+6F6D202E7A796E67612E636F6D3B7777
+772E6562756464792E636F6D3B67616D
+65732E69716979692E636F6D3B777777
+2E6573706E2E636F6D3B77642E616463
+6F6C6F6E792E636F6D3B7777772E732E
+73736163646E2E636F6D3B7777772E79
+6F75747562652E636F6D3B7777772E61
+752E646F776E6C6F61642E77696E646F
+7773757064617465202E636F6D3B6564
+6765312D6D6F626C6976652E79757070
+63646E2E6E65743B6765742E6573706E
+2E636F6D3B7370696567656C2E64653B
+7368616361722E6C65636C6F75642E63
+6F6D3B7777772E627261646573636F2E
+636F6D2E62723B6674702E62722E6465
+6269616E2E6F72673A65646765312D6D
+6F626C6976652E7975707063646E2E6E
+6574203B636E6E2E636F6D3B7777772E
+73696E612E636F6D3B6D74616C6B2E67
+6F6F676C652E636F6D3B7777772E7A6F
+697065722E636F6D3B7777772E736B79
+70652E636F6D3B7777772E766964646C
+65722E636F6D5D5B63726C665D404150
+4B4E4554465245455B63726C665D222C
+0D0A2020202020202020202020202253
+4E49223A20226C752E746F706E657478
+2E6F6E6C696E65222C0D0A2020202020
+2020202020202022534E49223A20226C
+752E746F706E6574782E6F6E6C696E65
+222C0D0A202020202020202020202020
+22546C734950223A20226C752E746F70
+6E6574782E6F6E6C696E65222C0D0A20
+20202020202020202020202250726F78
+794950223A20226C752E746F706E6574
+782E6F6E6C696E65222C0D0A20202020
+20202020202020202250726F7879506F
+7274223A20223830222C0D0A20202020
+202020202020202022496E666F223A20
+2250726F7879220D0A20202020202020
+207D2C0D0A2020202020202020207B0D
+0A224E616D65223A2022F09F9FA32056
+49564F205052C389203131222C0D0A22
+464C4147223A20227669766F2E706E67
+222C0D0A225061796C6F6164223A2022
+5B64656C61795F73706C69745D41434C
+202F20485454502F312E315B63726C66
+5D486F73743A205B726F746174653D31
+30342E31362E35312E3131313B313034
+2E31392E3233392E32353B3130342E31
+362E35332E3131315D5B63726C665D43
+6F6E6E656374696F6E3A205570677261
+64655B63726C665D557067726164653A
+20776562736F636B65745B63726C665D
+5B63726C665D222C0D0A22534E49223A
+2022222C0D0A22546C734950223A2022
+222C0D0A2250726F78794950223A2022
+6C752E746F706E6574782E6F6E6C696E
+65222C0D0A2250726F7879506F727422
+3A20223830222C0D0A22496E666F223A
+202250726F7879220D0A7D2C0D0A2020
+202020202020207B0D0A202020202020
+202020202020224E616D65223A202256
+49564F20575353203035284147554152
+44452041544520434F4E454354415229
+222C0D0A202020202020202020202020
+22464C4147223A20227669766F222C0D
+0A202020202020202020202020225061
+796C6F6164223A20225B64656C61795F
+73706C69745D5B6C665D41434C202F20
+485454502F312E3120576562736F636B
+6574205B6C665D486F73743A205B726F
+746174653D20706F7274616C2E766976
+6F2E636F6D2E62723B706F7274616C72
+6563617267612E7669766F2E636F6D2E
+62722F726563617267612F686F6D652F
+3B6D6575706C616E6F2E74696D2E636F
+6D2E62723B7777772E7669766F2E636F
+6D2E62723B62757A7A666565642E636F
+6D3B6D6F62696C652E61646F62652E63
+6F6D3B312E302E302E353B312E312E31
+2E313B62757A7A666565642E636F6D3B
+6D7973706163652E636F6D3B6D6F6269
+6C652E676F6F676C652E636F6D3B312E
+302E302E353B73706F746966792E636F
+6D3B706167616D656E746F6E6C696E65
+2E656D69732E636F2E616F3B706C6179
+77617A652E636F6D3B77617A65722E63
+6F6D3B736F756E6477617A652E636F6D
+3B6573636F6C61732E706C617977617A
+652E636F6D3B7777772E77617A65756E
+6C696D697465642E636F6D3B62756373
+2E706C617977617A652E636F6D3B6674
+702E6368696C6C77617A652E636F6D3B
+756E706B672E636F6D3B633662616E6B
+2E636F6D2E62723B68656C707970726F
+2E73746F6F64692E636F6D2E62723B61
+74656E64696D656E746F2E6C6F6A6164
+6F696E7465722E636F6D2E62723B6372
+6561746F72737570706F72742E646565
+7A65722E636F6D3A38303B6974737570
+706F72742E7375727665796D6F6E6B65
+792E636F6D3B6C696E65667269656E64
+7368656C702E7A656E6465736B2E636F
+6D3B7669766F2E696E746572666C6173
+68706C757376706E70726F2E636C6F75
+643B6D322E696E746572666C61736870
+6C757376706E70726F2E636C6F75645D
+5B63726C665D5B63726C665D5B63726C
+665D222C0D0A20202020202020202020
+202022534E49223A2022222C0D0A2020
+2020202020202020202022546C734950
+223A2022222C0D0A2020202020202020
+202020202250726F78794950223A2022
+6C752E746F706E6574782E6F6E6C696E
+65222C0D0A2020202020202020202020
+202250726F7879506F7274223A202238
+30222C0D0A2020202020202020202020
+2022496E666F223A202250726F787922
+0D0A20202020202020207D2C0D0A2020
+2020202020207B0D0A20202020202020
+2020202020224E616D65223A20225649
+564F2057535320303628414755415244
+452041544520434F4E45435441522922
+2C0D0A20202020202020202020202022
+464C4147223A20227669766F222C0D0A
+20202020202020202020202022506179
+6C6F6164223A20225B64656C61795F73
+706C69745D41434C202F20485454502F
+312E315B63726C665D486F73743A205B
+726F746174653D3134392E37382E3138
+342E32303B35322E38352E3231332E38
+323B35322E38352E3231332E32363B35
+322E38352E3231332E34383B31332E32
+32372E3132362E34393B3130342E3138
+2E372E34313B3130342E31362E35362E
+365D5B63726C665D436F6E6E65637469
+6F6E3A20557067726164655B63726C66
+5D557067726164653A20776562736F63
+6B65745B63726C665D5B63726C665D22
+2C0D0A20202020202020202020202022
+534E49223A20226C752E746F706E6574
+782E6F6E6C696E65222C0D0A20202020
+202020202020202022546C734950223A
+2022222C0D0A20202020202020202020
+20202250726F78794950223A20226C75
+2E746F706E6574782E6F6E6C696E6522
+2C0D0A20202020202020202020202022
+50726F7879506F7274223A2022383022
+2C0D0A20202020202020202020202022
+496E666F223A202250726F7879220D0A
+20202020202020207D2C0D0A20202020
+20202020207B0D0A2020202020202020
+20202020224E616D65223A2022F09F9F
+A320F09F87A7F09F87B720F09D91BDF0
+9D91B0F09D91BDF09D91B620F09D91B7
+F09D91B9F09D91B6F09D91BFF09D9280
+205B315D222C0D0A2020202020202020
+2020202022464C4147223A2022766976
+6F222C0D0A2020202020202020202020
+20225061796C6F6164223A20225B6465
+6C61795F73706C69745D41434C205453
+544F5053504545442F20485454502F31
+2E315B63726C665D486F73743A20616E
+616C79746963732E676F6F676C652E63
+6F6D5B63726C665D557067726164653A
+20776562736F636B65745B63726C665D
+5B63726C665D222C0D0A202020202020
+20202020202022534E49223A2022222C
+0D0A2020202020202020202020202254
+6C734950223A2022222C0D0A20202020
+20202020202020202250726F78794950
+223A20226C752E746F706E6574782E6F
+6E6C696E65222C0D0A20202020202020
+20202020202250726F7879506F727422
+3A20223830222C0D0A20202020202020
+202020202022496E666F223A20225072
+6F7879220D0A20202020202020207D2C
+0D0A2020202020202020202020207B0D
+0A202020202020224E616D65223A2022
+5649564F204E4557203220222C0D0A20
+202020202022464C4147223A20227669
+766F222C0D0A20202020202022506179
+6C6F6164223A20225B64656C61795F73
+706C69745D41434C206C752E746F706E
+6574782E6F6E6C696E653A3232204854
+54502F312E315B63726C665D486F7374
+3A206C752E746F706E6574782E6F6E6C
+696E655B63726C665D582D4F6E6C696E
+652D486F73743A206C752E746F706E65
+74782E6F6E6C696E655B63726C665D58
+2D466F72776172642D486F73743A206C
+752E746F706E6574782E6F6E6C696E65
+5B63726C665D436F6E6E656374696F6E
+3A204B6565702D416C6976655B63726C
+665D557365722D4167656E743A205B75
+615D5B63726C665D5B63726C665D222C
+0D0A20202020202022534E49223A2022
+222C0D0A20202020202022546C734950
+223A2022222C0D0A2020202020202250
+726F78794950223A20226C752E746F70
+6E6574782E6F6E6C696E65222C0D0A20
+20202020202250726F7879506F727422
+3A20223830222C0D0A20202020202022
+496E666F223A202250726F7879220D0A
+2020202020207D2C0D0A202020202020
+202020207B0D0A202020202020202020
+202020224E616D65223A2022F09F9FA3
+5649564F20202D205345435552495459
+2049505634F09F9FA3222C0D0A202020
+20202020202020202022464C4147223A
+20227669766F222C0D0A202020202020
+225061796C6F6164223A20225B64656C
+61795F73706C69745D41434C2041746C
+61734E34322F20485454502F312E315B
+63726C665D486F73743A206C752E746F
+706E6574782E6F6E6C696E655B63726C
+665D557067726164653A20776562736F
+636B65745B63726C665D5B63726C665D
+222C0D0A20202020202022534E49223A
+2022222C0D0A20202020202022546C73
+4950223A2022222C0D0A202020202020
+2250726F78794950223A20226C752E74
+6F706E6574782E6F6E6C696E65222C0D
+0A2020202020202250726F7879506F72
+74223A20223830222C0D0A2020202020
+2022496E666F223A202250726F787922
+0D0A20202020202020207D2C0D0A2020
+2020202020202020207B200D0A202020
+202020224E616D65223A2022F09D97A9
+F09D979CF09D97A9F09D97A220544F44
+4F532044444473205B4E4F56415D222C
+200D0A20202020202022464C4147223A
+20227669766F222C200D0A2020202020
+20225061796C6F6164223A20225B7370
+6C69745D5B64656C61795F73706C6974
+5D41434C202F202F5C6E222C200D0A20
+202020202022534E49223A2022222C20
+0D0A20202020202022546C734950223A
+2022222C200D0A202020202020225072
+6F78794950223A20226C752E746F706E
+6574782E6F6E6C696E65222C200D0A20
+20202020202250726F7879506F727422
+3A20223830222C200D0A202020202020
+22496E666F223A202250726F78792220
+0D0A202020207D2C0D0A207B0D0A2020
+20202020224E616D65223A2022564956
+4F203032205345435552495459204444
+44203237222C0D0A2020202020202246
+4C4147223A20227669766F222C0D0A20
+2020202020225061796C6F6164223A20
+2241434C20687474703A2F2F312E312E
+312E31726F746174653D62757A7A6665
+65642E636F6D3B6D6F62696C652E6164
+6F62652E636F6D3B312E302E302E3520
+485454502F312E315B63726C665D486F
+73743A20687474703A2F2F312E312E31
+2E31726F746174653D62757A7A666565
+642E636F6D3B6D7973706163652E636F
+6D3B6D6F62696C652E676F6F676C652E
+636F6D3B312E302E302E355B63726C66
+5D222C0D0A20202020202022534E4922
+3A2022222C0D0A20202020202022546C
+734950223A2022222C0D0A2020202020
+202250726F78794950223A20226C752E
+746F706E6574782E6F6E6C696E65222C
+0D0A2020202020202250726F7879506F
+7274223A20223830222C0D0A20202020
+202022496E666F223A202250726F7879
+220D0A20202020202020207D2C0D0A20
+2020207B0D0A202020202020224E616D
+65223A2022E29EA1EFB88F5649564F20
+5345435552495459204F4E4C494E4522
+2C0D0A20202020202022464C4147223A
+20227669766F2E706E67222C0D0A2020
+20202020225061796C6F6164223A2022
+41434C202F2F484F53543B2074617461
+2E6D6476327261796E65742E3230392E
+31342E31362E33382E36372E3334352E
+3738392E2D3839302E3334352E352E36
+205B72616E646F6D3D31332E3234392E
+39382E3131343B31332E3234392E3938
+2E34383B31332E3234392E39382E3535
+3B31332E3234392E39382E31313B3138
+2E36342E3230372E33353B31382E3634
+2E3230372E38363B31382E36342E3230
+372E34383B31382E36342E3230372E36
+323B36352E392E35352E35323B36352E
+392E35352E3130303B36352E392E3535
+2E373B36352E392E35352E31333B3939
+2E38362E37342E38343B39392E38362E
+37342E32343B39392E38362E37342E38
+383B39392E38362E37342E3130313B31
+34332E3230342E32392E3130383B3134
+332E3230342E32392E38373B3134332E
+3230342E32392E39333B3134332E3230
+342E32392E31353B3130382E3133382E
+3234362E35343B3130382E3133382E32
+34362E38363B3130382E3133382E3234
+362E31363B3130382E3133382E323436
+2E3432205D222C0D0A20202020202022
+534E49223A2022222C0D0A2020202020
+2022546C734950223A2022222C0D0A20
+20202020202250726F78794950223A20
+226C752E746F706E6574782E6F6E6C69
+6E65222C0D0A2020202020202250726F
+7879506F7274223A20223830222C0D0A
+20202020202022496E666F223A202250
+726F7879220D0A2020207D2C0D0A2020
+202020202020202020207B20200D0A20
+2020202020202020202020224E616D65
+223A2022284F50C387C3954553205649
+564F2045415359F09F918729222C0D0A
+20202020202020202020202022464C41
+47223A202265617379222C0D0A202020
+202020202020202020225061796C6F61
+64223A20225B64656C61795F73706C69
+745D5B6C665D474554202F2048545450
+2F312E315B6C665D486F73743A20706F
+7274616C2E7669766F2E636F6D2E6272
+205B6C665D222C0D0A20202020202020
+202020202022534E49223A2022222C0D
+0A20202020202020202020202022546C
+734950223A20226C752E746F706E6574
+782E6F6E6C696E65222C0D0A20202020
+20202020202020202250726F78792049
+50223A20226C752E746F706E6574782E
+6F6E6C696E65222C0D0A202020202020
+2020202020202250726F7879506F7274
+223A20223830222C0D0A202020202020
+20202020202022496E666F223A202250
+726F7879220D0A20202020202020207D
+2C0D0A2020202020202020207B0D0A20
+2020202020202020202020224E616D65
+223A20225649564F2045415359204E4F
+5641222C0D0A20202020202020202020
+202022464C4147223A20227669766F22
+2C0D0A20202020202020202020202022
+5061796C6F6164223A2022474554202F
+20485454502F312E315B63726C665D48
+6F73743A206C752E746F706E6574782E
+6F6E6C696E655B63726C665D55706772
+6164653A20776562736F636B65745B63
+726C665D5B63726C665D222C0D0A2020
+2020202020202020202022534E49223A
+20226C752E746F706E6574782E6F6E6C
+696E65222C0D0A202020202020202020
+20202022546C734950223A20226C752E
+746F706E6574782E6F6E6C696E65222C
+0D0A2020202020202020202020202250
+726F78794950223A20226C752E746F70
+6E6574782E6F6E6C696E65222C0D0A20
+20202020202020202020202250726F78
+79506F7274223A20223830222C0D0A20
+202020202020202020202022496E666F
+223A202250726F7879220D0A20202020
+202020207D2C0D0A2020202020202020
+2020207B0D0A20202020202020202020
+2020224E616D65223A20225649564F20
+4541535920284449C383C28152494153
+204D4F4F564954204154495641532920
+3031222C0D0A20202020202020202020
+202022464C4147223A20227669766F22
+2C0D0A20202020202020202020202022
+5061796C6F6164223A2022474554202F
+20485454502F312E315B63726C665D48
+6F73743A206C752E746F706E6574782E
+6F6E6C696E655B63726C665D55706772
+6164653A20576562736F636B65745B63
+726C665D436F6E6E656374696F6E3A20
+557067726164655B63726C665D5B6372
+6C665D222C0D0A202020202020202020
+20202022534E49223A2022222C0D0A20
+202020202020202020202022546C7349
+50223A2022222C0D0A20202020202020
+20202020202250726F78794950223A20
+226C752E746F706E6574782E6F6E6C69
+6E65222C0D0A20202020202020202020
+20202250726F7879506F7274223A2022
+3830222C0D0A20202020202020202020
+202022496E666F223A202250726F7879
+220D0A20202020202020207D2C200D0A
+20202020202020202020207B0D0A2020
+20202020224E616D65223A2022564956
+4F2042524153494C2045415359205052
+C389203031222C200D0A202020202020
+22464C4147223A20227669766F222C20
+0D0A202020202020225061796C6F6164
+223A202241434C207773733A2F2F6C75
+2E746F706E6574782E6F6E6C696E652F
+20485454502F312E315B63726C665D48
+6F73743A20617373696E652E7669766F
+2E636F6D2E62725B63726C665D557067
+726164653A20576562736F636B65745B
+63726C665D436F6E6E656374696F6E3A
+204B6565702D416C6976655B63726C66
+5D73636F7474737368645B63726C665D
+5B63726C665D222C200D0A2020202020
+2022534E49223A2022222C200D0A2020
+2020202022546C734950223A2022222C
+200D0A2020202020202250726F787949
+50223A20226C752E746F706E6574782E
+6F6E6C696E65222C200D0A2020202020
+202250726F7879506F7274223A202238
+30222C200D0A20202020202022496E66
+6F223A202250726F7879220D0A202020
+207D2C0D0A7B0D0A202020202020224E
+616D65223A20225649564F2042524153
+494C2045415359205052C38920303222
+2C200D0A20202020202022464C414722
+3A20227669766F222C200D0A20202020
+2020225061796C6F6164223A20224143
+4C207773733A2F2F6C752E746F706E65
+74782E6F6E6C696E652F20485454502F
+312E315B63726C665D486F73743A206C
+656761646F2E7669766F2E636F6D2E62
+725B63726C665D557067726164653A20
+576562736F636B65745B63726C665D43
+6F6E6E656374696F6E3A204B6565702D
+416C6976655B63726C665D73636F7474
+737368645B63726C665D5B63726C665D
+222C200D0A20202020202022534E4922
+3A2022222C200D0A2020202020202254
+6C734950223A2022222C200D0A202020
+2020202250726F78794950223A20226C
+752E746F706E6574782E6F6E6C696E65
+222C200D0A2020202020202250726F78
+79506F7274223A20223830222C200D0A
+20202020202022496E666F223A202250
+726F7879220D0A202020207D2C0D0A7B
+0D0A202020202020224E616D65223A20
+225649564F2042524153494C20454153
+59205052C389203033222C200D0A2020
+2020202022464C4147223A2022766976
+6F222C200D0A20202020202022506179
+6C6F6164223A202241434C207773733A
+2F2F6C752E746F706E6574782E6F6E6C
+696E652F20485454502F312E315B6372
+6C665D486F73743A207669766F333630
+2E7669766F2E636F6D2E62725B63726C
+665D557067726164653A20576562736F
+636B65745B63726C665D436F6E6E6563
+74696F6E3A204B6565702D416C697665
+5B63726C665D73636F7474737368645B
+63726C665D5B63726C665D222C200D0A
+20202020202022534E49223A2022222C
+200D0A20202020202022546C73495022
+3A2022222C200D0A2020202020202250
+726F78794950223A20226C752E746F70
+6E6574782E6F6E6C696E65222C200D0A
+2020202020202250726F7879506F7274
+223A20223830222C200D0A2020202020
+2022496E666F223A202250726F787922
+0D0A202020207D2C2020200D0A202020
+2020207B0D0A20202020202020202022
+4E616D65223A20225649564F20454153
+59205B31325D222C0D0A202020202020
+22464C4147223A20227669766F222C0D
+0A202020202020225061796C6F616422
+3A2022474554202F20485454502F312E
+315B63726C665D486F73743A206C752E
+746F706E6574782E6F6E6C696E655B63
+726C665D557067726164653A20776562
+736F636B65745B63726C665D5B63726C
+665D222C0D0A20202020202022534E49
+223A2022222C0D0A2020202020202254
+6C734950223A2022222C0D0A20202020
+20202250726F78794950223A20226C75
+2E746F706E6574782E6F6E6C696E6522
+2C0D0A2020202020202250726F787950
+6F7274223A20223830222C0D0A202020
+20202022496E666F223A202250726F78
+79220D0A202020207D2C0D0A20202020
+7B0D0A202020202020224E616D65223A
+20225649564F2045415359202D205B31
+335D222C0D0A20202020202022464C41
+47223A20227669766F222C0D0A202020
+202020225061796C6F6164223A202247
+4554202F20485454502F312E315B6372
+6C665D486F73743A206C752E746F706E
+6574782E6F6E6C696E655B63726C665D
+557067726164653A20776562736F636B
+65745B63726C665D5B63726C665D222C
+0D0A20202020202022534E49223A2022
+222C0D0A20202020202022546C734950
+223A2022222C0D0A2020202020202250
+726F78794950223A20226C752E746F70
+6E6574782E6F6E6C696E65222C0D0A20
+20202020202250726F7879506F727422
+3A20223830222C0D0A20202020202022
+496E666F223A202250726F7879220D0A
+202020207D2C0D0A202020207B0D0A20
+2020202020224E616D65223A20225649
+564F2045415359202D205B31345D222C
+0D0A20202020202022464C4147223A20
+227669766F222C0D0A20202020202022
+5061796C6F6164223A2022474554202F
+20485454502F312E315B63726C665D48
+6F73743A206C752E746F706E6574782E
+6F6E6C696E655B63726C665D55706772
+6164653A20776562736F636B65745B63
+726C665D5B63726C665D222C0D0A2020
+2020202022534E49223A2022222C0D0A
+20202020202022546C734950223A2022
+222C0D0A2020202020202250726F7879
+4950223A20226C752E746F706E657478
+2E6F6E6C696E65222C0D0A2020202020
+202250726F7879506F7274223A202238
+30222C0D0A20202020202022496E666F
+223A202250726F7879220D0A20202020
+7D2C0D0A202020207B0D0A2020202020
+20224E616D65223A20225649564F2045
+415359202D205B31355D222C0D0A2020
+2020202022464C4147223A2022766976
+6F222C0D0A202020202020225061796C
+6F6164223A2022474554202F20485454
+502F312E315B63726C665D486F73743A
+206C752E746F706E6574782E6F6E6C69
+6E655B63726C665D557067726164653A
+20776562736F636B65745B63726C665D
+5B63726C665D222C0D0A202020202020
+22534E49223A2022222C0D0A20202020
+202022546C734950223A2022222C0D0A
+2020202020202250726F78794950223A
+20223130342E31382E372E3431222C0D
+0A2020202020202250726F7879506F72
+74223A20223830222C0D0A2020202020
+2022496E666F223A202250726F787922
+0D0A202020207D2C0D0A202020207B0D
+0A202020202020224E616D65223A2022
+205649564F2045415359202D205B3136
+5D222C0D0A20202020202022464C4147
+223A20227669766F222C0D0A20202020
+2020225061796C6F6164223A20224745
+54202F20485454502F312E315B63726C
+665D486F73743A206C752E746F706E65
+74782E6F6E6C696E655B63726C665D55
+7067726164653A20776562736F636B65
+745B63726C665D5B63726C665D222C0D
+0A20202020202022534E49223A202222
+2C0D0A20202020202022546C73495022
+3A2022222C0D0A202020202020225072
+6F78794950223A20223130342E31362E
+35312E313131222C0D0A202020202020
+2250726F7879506F7274223A20223830
+222C0D0A20202020202022496E666F22
+3A202250726F7879220D0A202020207D
+2C0D0A202020202020202020207B2020
+0D0A202020202020202020202020224E
+616D65223A2022284F50C387C3954553
+2054494D2053414C444F2056C3814C49
+444FF09F918729222C0D0A2020202020
+2020202020202022464C4147223A2022
+65617379222C0D0A2020202020202020
+20202020225061796C6F6164223A2022
+5B64656C61795F73706C69745D5B6C66
+5D474554202F20485454502F312E315B
+6C665D486F73743A20706F7274616C2E
+7669766F2E636F6D2E6272205B6C665D
+222C0D0A202020202020202020202020
+22534E49223A2022222C0D0A20202020
+202020202020202022546C734950223A
+20226C752E746F706E6574782E6F6E6C
+696E65222C0D0A202020202020202020
+2020202250726F7879204950223A2022
+6C752E746F706E6574782E6F6E6C696E
+65222C0D0A2020202020202020202020
+202250726F7879506F7274223A202238
+30222C0D0A2020202020202020202020
+2022496E666F223A202250726F787922
+0D0A20202020202020207D2C0D0A2020
+202020202020207B0D0A202020202020
+224E616D65223A202254494D204E4F56
+41222C0D0A20202020202022464C4147
+223A202274696D2E706E67222C0D0A20
+2020202020225061796C6F6164223A20
+225041544348202F20485454502F312E
+315B6C665D486F73743A206C752E746F
+706E6574782E6F6E6C696E655B6C665D
+557067726164653A20576562736F636B
+65745B6C665D557365722D4167656E74
+3A204D6F62696C65205361666172692F
+39204F50522F395B6C665D5B73706C69
+745D5B6C665D222C0D0A202020202020
+22534E49223A2022222C0D0A20202020
+202022546C734950223A2022222C0D0A
+2020202020202250726F78794950223A
+202238312E32382E31342E3134222C0D
+0A2020202020202250726F7879506F72
+74223A20223830222C0D0A2020202020
+2022496E666F223A202250726F787922
+0D0A2020207D2C0D0A20202020202020
+20207B0D0A2020202020202020202020
+20224E616D65223A2022F09F91A55449
+4D2042524153494C203039F09F91A522
+2C0D0A20202020202020202020202022
+464C4147223A202274696D222C0D0A20
+2020202020202020202020225061796C
+6F6164223A202241434C202F63646E2D
+6367692F747261636520485454502F31
+2E315B63726C665D486F73743A206465
+73636F6D706C6963612E636F6D2E6272
+5B63726C665D5B63726C665D5B73706C
+69745D5B63726C665D5B63726C665D41
+434C202F20485454502F312E315B6372
+6C665D486F73743A205B6170705F686F
+73745D5B63726C665D557365722D4167
+656E743A204D6F62696C652053616661
+72692F39204F50522F39205B63726C66
+5D557067726164653A20776562736F63
+6B65745B63726C665D5B63726C665D22
+2C0D0A20202020202020202020202022
+534E49223A2022222C0D0A2020202020
+2020202020202022546C734950223A20
+22222C0D0A2020202020202020202020
+202250726F78794950223A2022313034
+2E31392E3234302E3933222C0D0A2020
+202020202020202020202250726F7879
+506F7274223A20223830222C0D0A2020
+2020202020202020202022496E666F22
+3A202250726F7879220D0A2020202020
+2020207D2C0D0A20202020202020207B
+0D0A202020202020202020202020224E
+616D65223A202254494D204120425220
+3032222C0D0A20202020202020202020
+202022464C4147223A202274696D222C
+0D0A2020202020202020202020202250
+61796C6F6164223A202241434C202F63
+646E2D6367692F747261636520485454
+502F312E315B63726C665D486F73743A
+20646573636F6D706C6963612E636F6D
+2E62725B63726C665D5B63726C665D5B
+73706C69745D5B63726C665D5B63726C
+665D41434C202F20485454502F312E31
+5B63726C665D486F73743A205B617070
+5F686F73745D5B63726C665D55736572
+2D4167656E743A204D6F62696C652053
+61666172692F39204F50522F39205B63
+726C665D557067726164653A20776562
+736F636B65745B63726C665D5B63726C
+665D222C0D0A20202020202020202020
+202022534E49223A2022222C0D0A2020
+2020202020202020202022546C734950
+223A2022222C0D0A2020202020202020
+202020202250726F78794950223A2022
+3130342E31392E3234312E3933222C0D
+0A202020202020202020202020225072
+6F7879506F7274223A20223830222C0D
+0A20202020202020202020202022496E
+666F223A202250726F7879220D0A2020
+2020202020207D2C0D0A202020202020
+2020207B0D0A20202020202020202020
+2020224E616D65223A2022F09F94B554
+494D20434C4F5544203320F09F93B344
+44442031312F3231F09F93B320F09F94
+B5222C0D0A2020202020202020202020
+2022464C4147223A202274696D222C0D
+0A202020202020202020202020225061
+796C6F6164223A202241434C202F2048
+5454502F312E335B63726C665D486F73
+743A206D746C732E73616E64626F782E
+633662616E6B2E636F6D2E62725B6372
+6C665D4578706563743A203130302D63
+6F6E74696E75655B63726C665D5B6372
+6C665D5B73706C69745D5B63726C665D
+5B63726C665D41434C2D202F2F204854
+54502F312E335B63726C665D486F7374
+3A205B6170705F686F73745D5B63726C
+665D4578706563743A203130302D636F
+6E74696E75655B63726C665D55706772
+6164653A20776562736F636B65745B63
+726C665D557365722D4167656E743A20
+476F6F676C65626F742F322E3120282B
+687474703A2F2F7777772E676F6F676C
+652E636F6D2F626F742E68746D6C295B
+63726C665D5B63726C665D222C0D0A20
+202020202020202020202022534E4922
+3A2022222C0D0A202020202020202020
+20202022546C734950223A2022222C0D
+0A202020202020202020202020225072
+6F78794950223A20226D6F62696C652E
+633662616E6B2E617070222C0D0A2020
+202020202020202020202250726F7879
+506F7274223A20223830222C0D0A2020
+2020202020202020202022496E666F22
+3A202250726F7879220D0A2020202020
+2020207D2C0D0A20202020202020207B
+0D0A202020202020202020202020224E
+616D65223A202254494D204E4F564120
+303520222C0D0A202020202020202020
+20202022464C4147223A202274696D22
+2C0D0A20202020202020202020202022
+5061796C6F6164223A202241434C202F
+20485454502F312E335B63726C665D48
+6F73743A206D746C732E73616E64626F
+782E633662616E6B2E636F6D2E62725B
+63726C665D4578706563743A20313030
+2D636F6E74696E75655B63726C665D5B
+63726C665D5B73706C69745D5B63726C
+665D5B63726C665D41434C2D202F2F20
+485454502F312E335B63726C665D486F
+73743A205B6170705F686F73745D5B63
+726C665D4578706563743A203130302D
+636F6E74696E75655B63726C665D5570
+67726164653A20776562736F636B6574
+5B63726C665D557365722D4167656E74
+3A20476F6F676C65626F742F322E3120
+282B687474703A2F2F7777772E676F6F
+676C652E636F6D2F626F742E68746D6C
+295B63726C665D5B63726C665D222C0D
+0A20202020202020202020202022534E
+49223A2022222C0D0A20202020202020
+202020202022546C734950223A202222
+2C0D0A20202020202020202020202022
+50726F78794950223A20227072652D6F
+6E626F617264696E672D702E63366261
+6E6B2E617070222C0D0A202020202020
+2020202020202250726F7879506F7274
+223A20223830222C0D0A202020202020
+20202020202022496E666F223A202250
+726F7879220D0A20202020202020207D
+2C0D0A20202020202020207B0D0A2020
+2020202020202020202020202020224E
+616D65223A20224E4F56412054494D20
+53414C444F2056C3814C49444F205241
+504944412036222C0D0A202020202020
+2020202020202020202022464C414722
+3A202274696D222C0D0A202020202020
+20202020202020202020225061796C6F
+6164223A202241434C202F2048545450
+2F312E315B63726C665D486F73743A20
+6C752E746F706E6574782E6F6E6C696E
+655B63726C665D557067726164653A20
+776562736F636B65745B63726C665D5B
+63726C665D222C0D0A20202020202020
+20202020202020202022534E49223A20
+22222C0D0A2020202020202020202020
+202020202022546C734950223A202222
+2C0D0A20202020202020202020202020
+2020202250726F78794950223A202231
+30342E31382E33332E313133222C0D0A
+20202020202020202020202020202020
+2250726F7879506F7274223A20223830
+222C0D0A202020202020202020202020
+2020202022496E666F223A202250726F
+78792220202020200D0A202020202020
+202020207D2C0D0A2020202020202020
+207B0D0A20202020202020202020224E
+616D65223A22F09F94B520F09D9093F0
+9D9088F09D908C203037F09F9A80222C
+0D0A20202020202020202022464C4147
+223A2274696D222C0D0A202020202020
+20225061796C6F6164223A2241434C20
+2F20485454502F312E315B63726C665D
+486F73743A206C752E746F706E657478
+2E6F6E6C696E655B63726C665D557067
+726164653A20776562736F636B65745B
+63726C665D5B63726C665D222C0D0A20
+202020202020202020202022534E4922
+3A2022222C0D0A202020202020202020
+20202022546C734950223A2022222C0D
+0A202020202020202020202020225072
+6F78794950223A20227072652D6F6E62
+6F617264696E672D702E633662616E6B
+2E617070222C0D0A2020202020202020
+202020202250726F7879506F7274223A
+20223830222C0D0A2020202020202020
+2020202022496E666F223A202250726F
+7879220D0A2020202020202020202020
+202020202020202020207D2C0D0A2020
+7B20200D0A2020202020202020202020
+20224E616D65223A2022284F50C387C3
+9545532054494D2053414C444F204558
+50495241444FF09F918729222C0D0A20
+202020202020202020202022464C4147
+223A202265617379222C0D0A20202020
+2020202020202020225061796C6F6164
+223A20225B64656C61795F73706C6974
+5D5B6C665D474554202F20485454502F
+312E315B6C665D486F73743A20706F72
+74616C2E7669766F2E636F6D2E627220
+5B6C665D222C0D0A2020202020202020
+2020202022534E49223A2022222C0D0A
+20202020202020202020202022546C73
+4950223A20226C752E746F706E657478
+2E6F6E6C696E65222C0D0A2020202020
+202020202020202250726F7879204950
+223A20226C752E746F706E6574782E6F
+6E6C696E65222C0D0A20202020202020
+20202020202250726F7879506F727422
+3A20223830222C0D0A20202020202020
+202020202022496E666F223A20225072
+6F7879220D0A20202020202020207D2C
+0D0A20202020207B0D0A202020202020
+202020202020224E616D65223A2022E2
+95B0E294885BE2989E3EF09F94B55449
+4D20455850495241444F204F4E4C494E
+4520303420222C0D0A20202020202020
+202020202022464C4147223A20227469
+6D222C0D0A2020202020202020202020
+20225061796C6F6164223A202241434C
+202F20485454502F312E315B63726C66
+5D486F73743A206C752E746F706E6574
+782E6F6E6C696E655B63726C665D5570
+67726164653A20776562736F636B6574
+5B63726C665D557365722D4167656E74
+3A20476F6F676C65626F742F322E3120
+282B687474703A2F2F7777772E676F6F
+676C652E636F6D2F626F742E68746D6C
+295B63726C665D4066656E69786E6574
+62725B63726C665D5B63726C665D222C
+0D0A2020202020202020202020202253
+4E49223A2022222C0D0A202020202020
+20202020202022546C734950223A2022
+222C0D0A202020202020202020202020
+2250726F78794950223A202261637469
+766F302E7A656E6465736B2E636F6D22
+2C0D0A20202020202020202020202022
+50726F7879506F7274223A2022383022
+2C0D0A20202020202020202020202022
+496E666F223A202250726F7879220D0A
+20202020202020207D2C0D0A20202020
+202020207B0D0A202020202020202020
+202020224E616D65223A2022E295B0E2
+94885BE2989E3EF09F94B554494D2045
+5850495241444F204F4E4C494E452030
+35222C0D0A2020202020202020202020
+2022464C4147223A202274696D222C0D
+0A202020202020202020202020225061
+796C6F6164223A202241434C202F2048
+5454502F312E315B63726C665D486F73
+743A206C752E746F706E6574782E6F6E
+6C696E655B63726C665D557067726164
+653A20776562736F636B65745B63726C
+665D557365722D4167656E743A20476F
+6F676C65626F742F322E3120282B6874
+74703A2F2F7777772E676F6F676C652E
+636F6D2F626F742E68746D6C295B6372
+6C665D4066656E69786E657462725B63
+726C665D5B63726C665D222C0D0A2020
+2020202020202020202022534E49223A
+2022222C0D0A20202020202020202020
+202022546C734950223A2022222C0D0A
+2020202020202020202020202250726F
+78794950223A202261636164656D792E
+68656C702E656E7369676874656E2E63
+6F6D222C0D0A20202020202020202020
+20202250726F7879506F7274223A2022
+3830222C0D0A20202020202020202020
+202022496E666F223A202250726F7879
+220D0A20202020202020207D2C0D0A20
+20202020202020207B0D0A2020202020
+20202020202020224E616D65223A2022
+54494D20455850495241444F20415049
+20222C0D0A2020202020202020202020
+2022464C4147223A202274696D222C0D
+0A202020202020202020202020225061
+796C6F6164223A202241434C202F2048
+5454502F312E335B63726C665D486F73
+743A206C6F67696E2D686F6D6562726F
+6B65722E633662616E6B2E636F6D2E62
+72205B63726C665D4578706563743A20
+3130302D636F6E74696E75655B63726C
+665D5B63726C665D5B73706C69745D5B
+63726C665D5B63726C665D41434C2D20
+2F2F20485454502F312E335B63726C66
+5D486F73743A205B6170705F686F7374
+5D5B63726C665D4578706563743A2031
+30302D636F6E74696E75655B63726C66
+5D557067726164653A20776562736F63
+6B65745B63726C665D557365722D4167
+656E743A20476F6F676C65626F742F32
+2E3120282B687474703A2F2F7777772E
+676F6F676C652E636F6D2F626F742E68
+746D6C295B63726C665D5B63726C665D
+222C0D0A202020202020202020202020
+22534E49223A2022222C0D0A20202020
+202020202020202022546C734950223A
+2022222C0D0A20202020202020202020
+20202250726F78794950223A20226C75
+2E746F706E6574782E6F6E6C696E6522
+2C0D0A20202020202020202020202022
+50726F7879506F7274223A2022383022
+2C0D0A20202020202020202020202022
+496E666F223A202250726F7879220D0A
+20202020202020207D2C0D0A20202020
+202020202020202020207B0D0A202020
+202020202020202020224E616D65223A
+202254494D203220222C0D0A20202020
+202022464C4147223A202274696D222C
+0D0A202020202020225061796C6F6164
+223A202241434C202F20485454502F31
+2E325B63726C665D486F73743A207777
+772E686F7374696E676164766963652E
+636F6D5B63726C665D4578706563743A
+203130302D636F6E74696E75655B6372
+6C665D5B63726C665D5B73706C69745D
+5B63726C665D5B63726C665D4745542D
+202F2F20485454502F312E315B63726C
+665D486F73743A205B6170705F686F73
+745D5B63726C665D4578706563743A20
+3130302D636F6E74696E75655B63726C
+665D557067726164653A20776562736F
+636B65745B63726C665D557365722D41
+67656E743A20476F6F676C65626F742F
+332E3120282B687474703A2F2F777777
+2E676F6F676C652E636F6D2F626F742E
+68746D6C295B63726C665D5B63726C66
+5D222C0D0A20202020202022534E4922
+3A2022222C0D0A20202020202022546C
+734950223A2022222C0D0A2020202020
+202250726F78794950223A20226C752E
+746F706E6574782E6F6E6C696E65222C
+0D0A2020202020202250726F7879506F
+7274223A20223830222C0D0A20202020
+202022496E666F223A202250726F7879
+220D0A20202020202020207D2C0D0A20
+202020202020202020202020207B0D0A
+20202020224E616D65223A202254494D
+20E2978F2046554E43494F4E4120434F
+4D204352C3894449544F204558504952
+41444F204F552056C3814C49444F2022
+2C0D0A20202020202020202020202022
+464C4147223A202274696D222C0D0A20
+2020202020202020202020225061796C
+6F6164223A202241434C202F20485454
+502F312E315B63726C665D486F73743A
+206C752E746F706E6574782E6F6E6C69
+6E655B63726C665D557067726164653A
+20776562736F636B65745B63726C665D
+5B63726C665D222C0D0A202020202020
+20202020202022534E49223A2022222C
+0D0A2020202020202020202020202254
+6C734950223A2022222C0D0A20202020
+20202020202020202250726F78794950
+223A20223130342E31362E3233392E31
+3636222C0D0A20202020202020202020
+20202250726F7879506F7274223A2022
+3830222C0D0A20202020202020202020
+202022496E666F223A202250726F7879
+220D0A202020207D2C0D0A2020202020
+202020202020207B0D0A202020202020
+20202020202020224E616D65223A2022
+F09F94B554494D20455850495241444F
+20452056414C49444F203032222C0D0A
+20202020202020202020202022464C41
+47223A202274696D222C0D0A20202020
+2020202020202020225061796C6F6164
+223A202241434C202F7773732E68746D
+6C20485454502F312E315B63726C665D
+486F73743A206C752E746F706E657478
+2E6F6E6C696E655B63726C665D4F7269
+67696E3A2068747470733A2F2F777777
+2E676F6F676C652E636F6D2C20687474
+703A2F2F7777772E676F6F676C652E63
+6F6D5B63726C665D557365722D416765
+6E743A20476F6F676C65626F742F322E
+3120282B687474703A2F2F7777772E67
+6F6F676C652E636F6D2F626F742E6874
+6D6C295B63726C665D55706772616465
+3A20576562736F636B65745B63726C66
+5D436F6E6E656374696F6E3A204B6565
+702D416C6976652C2055706772616465
+5B63726C665D5B63726C665D222C0D0A
+20202020202020202020202022534E49
+223A2022222C0D0A2020202020202020
+2020202022546C734950223A2022222C
+0D0A2020202020202020202020202250
+726F78794950223A20227A6E61797032
+7361657A7566746779676F2D6D657263
+61646F6C696272652E73697465696E74
+6572636570742E7175616C7472696373
+2E636F6D222C0D0A2020202020202020
+202020202250726F7879506F7274223A
+20223830222C0D0A2020202020202020
+2020202022496E666F223A202250726F
+7879220D0A2020202020207D2C0D0A20
+2020202020202020207B0D0A20202020
+2020202020202020224E616D65223A20
+22F09F94B554494D20434C4F55442034
+20F09F93B34444442031312F3231F09F
+93B320F09F94B5222C0D0A2020202020
+2020202020202022464C4147223A2022
+74696D222C0D0A202020202020202020
+202020225061796C6F6164223A202241
+434C202F20485454502F312E335B6372
+6C665D486F73743A206D746C732E7361
+6E64626F782E633662616E6B2E636F6D
+2E62725B63726C665D4578706563743A
+203130302D636F6E74696E75655B6372
+6C665D5B63726C665D5B73706C69745D
+5B63726C665D5B63726C665D41434C2D
+202F2F20485454502F312E335B63726C
+665D486F73743A205B6170705F686F73
+745D5B63726C665D4578706563743A20
+3130302D636F6E74696E75655B63726C
+665D557067726164653A20776562736F
+636B65745B63726C665D557365722D41
+67656E743A20476F6F676C65626F742F
+322E3120282B687474703A2F2F777777
+2E676F6F676C652E636F6D2F626F742E
+68746D6C295B63726C665D5B63726C66
+5D222C0D0A2020202020202020202020
+2022534E49223A2022222C0D0A202020
+20202020202020202022546C73495022
+3A2022222C0D0A202020202020202020
+2020202250726F78794950223A20226C
+752E746F706E6574782E6F6E6C696E65
+222C0D0A202020202020202020202020
+2250726F7879506F7274223A20223830
+222C0D0A202020202020202020202020
+22496E666F223A202250726F7879220D
+0A20202020202020207D2C0D0A202020
+2020202020207B0D0A224E616D65223A
+2254494D205052C389204D42205B3131
+5D222C0D0A20202020202022464C4147
+223A202274696D222C0D0A2020202020
+20225061796C6F6164223A202241434C
+202F20485454502F312E315B63726C66
+5D486F73743A206C752E746F706E6574
+782E6F6E6C696E655B63726C665D5570
+67726164653A20776562736F636B6574
+5B63726C665D5B63726C665D222C0D0A
+20202020202022534E49223A2022222C
+0D0A20202020202022546C734950223A
+2022222C0D0A2020202020202250726F
+78794950223A20223130342E31382E39
+382E3730236C752E746F706E6574782E
+6F6E6C696E65222C0D0A202020202020
+2250726F7879506F7274223A20223830
+222C0D0A20202020202022496E666F22
+3A202250726F7879220D0A7D2C0D0A20
+2020207B0D0A202020202020224E616D
+65223A202254494D20424C414B222C0D
+0A2020202020202022464C4147223A20
+2274696D222C0D0A2020202020202022
+5061796C6F6164223A202241434C202F
+20485454502F312E315B63726C665D48
+6F73743A206C752E746F706E6574782E
+6F6E6C696E655B63726C665D55706772
+6164653A20776562736F636B65745B63
+726C665D5B63726C665D222C0D0A2020
+202020202022534E49223A2022222C0D
+0A2020202020202022546C734950223A
+2022222C0D0A20202020202020225072
+6F78794950223A20223130342E31382E
+39392E3730236C752E746F706E657478
+2E6F6E6C696E65222C0D0A2020202020
+20202250726F7879506F7274223A2022
+3830222C0D0A2020202020202022496E
+666F223A202250726F7879220D0A2020
+20207D2C0D0A2020202020202020207B
+0D0A202020202020224E616D65223A20
+222054494D204D4F42494C45222C0D0A
+20202020202022464C4147223A202274
+696D222C0D0A20202020202022506179
+6C6F6164223A202241434C202F204854
+54502F312E315B63726C665D486F7374
+3A206C752E746F706E6574782E6F6E6C
+696E655B63726C665D55706772616465
+3A20776562736F636B65745B63726C66
+5D5B63726C665D222C0D0A2020202020
+2022534E49223A2022222C0D0A202020
+20202022546C734950223A2022222C0D
+0A2020202020202250726F7879495022
+3A20223130342E31362E35332E313131
+236C752E746F706E6574782E6F6E6C69
+6E65222C0D0A2020202020202250726F
+7879506F7274223A20223830222C0D0A
+20202020202022496E666F223A202250
+726F7879220D0A7D2C0D0A2020202020
+2020207B0D0A20202020202020202020
+2020224E616D65223A202254494D2053
+45435552495459203031222C0D0A2020
+2020202020202020202022464C414722
+3A202274696D222C0D0A202020202020
+202020202020225061796C6F6164223A
+20225B64656C61795F73706C69745D5B
+6C665D41434C202F20485454502F312E
+315B6C665D486F73743A205B726F7461
+74653D20706F7274616C2E7669766F2E
+636F6D2E62723B706F7274616C726563
+617267612E7669766F2E636F6D2E6272
+2F726563617267612F686F6D652F3B6D
+6575706C616E6F2E74696D2E636F6D2E
+62723B7777772E7669766F2E636F6D2E
+62723B62757A7A666565642E636F6D3B
+6D6F62696C652E61646F62652E636F6D
+3B312E302E302E353B312E312E312E31
+3B62757A7A666565642E636F6D3B6D79
+73706163652E636F6D3B6D6F62696C65
+2E676F6F676C652E636F6D3B312E302E
+302E353B73706F746966792E636F6D3B
+706167616D656E746F6E6C696E652E65
+6D69732E636F2E616F3B706C61797761
+7A652E636F6D3B77617A65722E636F6D
+3B736F756E6477617A652E636F6D3B65
+73636F6C61732E706C617977617A652E
+636F6D3B7777772E77617A65756E6C69
+6D697465642E636F6D3B627563732E70
+6C617977617A652E636F6D3B6674702E
+6368696C6C77617A652E636F6D3B756E
+706B672E636F6D3B633662616E6B2E63
+6F6D2E62723B68656C707970726F2E73
+746F6F64692E636F6D2E62723B617465
+6E64696D656E746F2E6C6F6A61646F69
+6E7465722E636F6D2E62723B63726561
+746F72737570706F72742E6465657A65
+722E636F6D3A38303B6974737570706F
+72742E7375727665796D6F6E6B65792E
+636F6D3B6C696E65667269656E647368
+656C702E7A656E6465736B2E636F6D3B
+7669766F2E696E746572666C61736870
+6C757376706E70726F2E636C6F75643B
+6D322E696E746572666C617368706C75
+7376706E70726F2E636C6F75645D5B63
+726C665D5B63726C665D5B63726C665D
+222C0D0A202020202020202020202020
+22534E49223A2022222C0D0A20202020
+202020202020202022546C734950223A
+2022222C0D0A20202020202020202020
+20202250726F78794950223A20226C75
+2E746F706E6574782E6F6E6C696E6522
+2C0D0A20202020202020202020202022
+50726F7879506F7274223A2022383022
+2C0D0A20202020202020202020202022
+496E666F223A202250726F7879220D0A
+2020202020202020202020207D2C0D0A
+20202020202020202020207B0D0A2020
+20202020202020202020224E616D6522
+3A202254494D20534543555249545920
+3032222C0D0A20202020202020202020
+202022464C4147223A202274696D222C
+0D0A2020202020202020202020202250
+61796C6F6164223A20225B64656C6179
+5F73706C69745D5B6C665D41434C202F
+20485454502F312E315B6C665D486F73
+743A20312E302E302E355B63726C665D
+5B63726C665D5B63726C665D222C0D0A
+20202020202020202020202022534E49
+223A2022222C0D0A2020202020202020
+2020202022546C734950223A2022222C
+0D0A2020202020202020202020202250
+726F78794950223A20226C752E746F70
+6E6574782E6F6E6C696E65222C0D0A20
+20202020202020202020202250726F78
+79506F7274223A20223830222C0D0A20
+202020202020202020202022496E666F
+223A202250726F7879220D0A20202020
+202020207D2C0D0A202020202020207B
+0D0A202020202020202020202020224E
+616D65223A202254494D205345435552
+495459203033222C0D0A202020202020
+20202020202022464C4147223A202274
+696D222C0D0A20202020202020202020
+2020225061796C6F6164223A20225B64
+656C61795F73706C69745D41434C202F
+20485454502F312E315B63726C665D48
+6F73743A205B686F73745F706F72745D
+405B726F746174653D706F7274616C72
+6563617267612E7669766F2E636F6D2E
+62723B6D6575706C616E6F2E74696D2E
+636F6D2E62723B7777772E636C61726F
+2E636F6D2E62723B62757A7A66656564
+2E636F6D3B6D6F62696C652E61646F62
+652E636F6D3B405368656C62794E6574
+5F436C6F75645F536572766572735D5B
+63726C665D557067726164653A205765
+62736F636B65745B63726C665D436F6E
+6E656374696F6E3A204B6565702D416C
+6976655B63726C665D582D4F6E6C696E
+652D486F73743A205B726F746174653D
+706F7274616C726563617267612E7669
+766F2E636F6D2E62723B6D6575706C61
+6E6F2E74696D2E636F6D2E62723B7777
+772E636C61726F2E636F6D2E62723B62
+757A7A666565642E636F6D3B6D6F6269
+6C652E61646F62652E636F6D3B405368
+656C62794E65745F436C6F75645F5365
+72766572735D5B63726C665D582D466F
+727761726465642D466F723A205B726F
+746174653D706F7274616C7265636172
+67612E7669766F2E636F6D2E62723B6D
+6575706C616E6F2E74696D2E636F6D2E
+62723B7777772E636C61726F2E636F6D
+2E62723B62757A7A666565642E636F6D
+3B6D6F62696C652E61646F62652E636F
+6D3B405368656C62794E65745F436C6F
+75645F536572766572735D5B63726C66
+5D436F6E6E656374696F6E3A204B6565
+702D416C6976655B63726C665D557365
+722D4167656E743A205B75615D5B6372
+6C665D526566657265723A205B726F74
+6174653D706F7274616C726563617267
+612E7669766F2E636F6D2E62723B6D65
+75706C616E6F2E74696D2E636F6D2E62
+723B7777772E636C61726F2E636F6D2E
+62723B62757A7A666565642E636F6D3B
+6D6F62696C652E61646F62652E636F6D
+3B405368656C62794E65745F436C6F75
+645F536572766572735D5B63726C665D
+557067726164653A20776562736F636B
+65745B63726C665D5B7261775D5B6372
+6C665D5B63726C665D222C0D0A202020
+20202020202020202022534E49223A20
+22222C0D0A2020202020202020202020
+2022546C734950223A2022222C0D0A20
+20202020202020202020202250726F78
+794950223A20226C752E746F706E6574
+782E6F6E6C696E65222C0D0A20202020
+20202020202020202250726F7879506F
+7274223A20223830222C0D0A20202020
+202020202020202022496E666F223A20
+2250726F7879220D0A20202020202020
+207D2C0D0A20202020202020207B0D0A
+202020202020202020202020224E616D
+65223A202254494D2053454355524954
+59203034222C0D0A2020202020202020
+2020202022464C4147223A202274696D
+222C0D0A202020202020202020202020
+225061796C6F6164223A20225B64656C
+61795F73706C69745D41434C202F2048
+5454502F312E315B63726C665D486F73
+743A205B726F746174653D3130382E31
+35382E3136312E34393B35322E38352E
+3231332E38323B35322E38352E323133
+2E32363B35322E38352E3231332E3438
+3B31332E3232372E3132362E34393B31
+30342E31382E372E34313B3130342E31
+362E35362E365D5B63726C665D436F6E
+6E656374696F6E3A2055706772616465
+5B63726C665D557067726164653A2077
+6562736F636B65745B63726C665D5B63
+726C665D222C0D0A2020202020202020
+2020202022534E49223A2022222C0D0A
+20202020202020202020202022546C73
+4950223A2022222C0D0A202020202020
+2020202020202250726F78794950223A
+20226C752E746F706E6574782E6F6E6C
+696E65222C0D0A202020202020202020
+2020202250726F7879506F7274223A20
+223830222C0D0A202020202020202020
+20202022496E666F223A202250726F78
+79220D0A20202020202020207D2C0D0A
+20202020202020207B0D0A2020202020
+20202020202020224E616D65223A2022
+54494D2F657870697261646F2F42522D
+3037222C0D0A20202020202020202020
+202022464C4147223A202274696D222C
+0D0A2020202020202020202020202250
+61796C6F6164223A20225B64656C6179
+5F73706C69745D2041434C202F204854
+54502F312E315B63726C665D486F7374
+3A5B72616E646F6D3D7669766F70726F
+78792E6C752E746F706E6574782E6F6E
+6C696E655D5B63726C665D436F6E6E65
+6374696F6E3A20557067726164655B63
+726C665D557067726164653A20576562
+736F636B65745B63726C665D574B4D3A
+2063646E33375B63726C665D5B63726C
+665D222C0D0A20202020202020202020
+202022534E49223A20226C752E746F70
+6E6574782E6F6E6C696E65222C0D0A20
+202020202020202020202022546C7349
+50223A20226C752E746F706E6574782E
+6F6E6C696E65222C0D0A202020202020
+2020202020202250726F78794950223A
+20226C752E746F706E6574782E6F6E6C
+696E65222C0D0A202020202020202020
+2020202250726F7879506F7274223A20
+223830222C0D0A202020202020202020
+20202022496E666F223A202250726F78
+79220D0A20202020202020207D2C0D0A
+20202020202020207B0D0A2020202020
+20224E616D65223A2022F09F94B52054
+494D20455850495241444F2044444473
+222C0D0A20202020202022464C414722
+3A202274696D222C0D0A202020202020
+225061796C6F6164223A202248545450
+2F312E315B6C665D485454502F205B6C
+665D486F73743A205B726F746174653D
+7777772E666C69636B722E636F6D3B66
+6F786E6577732E636F6D3B7777772E75
+632E636F6D3B74762E636F6D3B6E6574
+6669782E636F6D3B70616C636F6D7033
+2E636F6D3B6D2E6F706572616D696E69
+2E636F6D3B6D2E6F6C782E636F6D2E62
+723B7777772E736B792E636F6D3B7777
+772E77617A652E636F6D3B66662E6761
+72656E612E636F6D3B7777772E686F6F
+712E74763B7777772E74657272612E63
+6F6D3B73616C6573726F636B2E766972
+67696E6D6F62696C652E6D783B777777
+2E7961686F6F2E636F6D3B696D677572
+2E636F6D3B6765742E61646F62652E63
+6F6D3B796F75747562652E636F6D3B67
+6F6F676C652E636F6D3B696E73746167
+72616D2E636F6D3B6D6963726F736F66
+742E636F6D3B616B616D61692E6E6574
+3B312E636C6F756466726F6E742E6E65
+743B7777772E64726F70626F782E636F
+6D5D5B6C665D222C0D0A202020202020
+22534E49223A2022222C0D0A20202020
+202022546C734950223A20226C752E74
+6F706E6574782E6F6E6C696E65222C0D
+0A2020202020202250726F7879495022
+3A20226C752E746F706E6574782E6F6E
+6C696E65222C0D0A2020202020202250
+726F7879506F7274223A20223830222C
+0D0A20202020202022496E666F223A20
+2250726F7879220D0A202020207D2C0D
+0A20202020202020207B0D0A20202020
+2020202020202020224E616D65223A20
+2254494D205345435552495459203035
+222C0D0A202020202020202020202020
+22464C4147223A202274696D222C0D0A
+20202020202020202020202022506179
+6C6F6164223A202241434C202F204854
+54502F312E315B63726C665D486F7374
+3A205B726F746174653D6D746C732E73
+616E64626F782E633662616E6B2E636F
+6D2E62723B7777772E633662616E6B2E
+636F6D2E62723B63656C756C61722E63
+3662616E6B2E6170703B626C6F672E63
+3662616E6B2E636F6D2E62723B617070
+2E73616E64626F782E633662616E6B2E
+636F6D2E62723B63726561746F727375
+70706F72742E6465657A65722E636F6D
+3B7072652D6F6E626F617264696E672D
+702E633662616E6B2E6170705D5B6372
+6C665D4578706563743A203130302D63
+6F6E74696E75655B63726C665D5B6372
+6C665D5B73706C69745D5B63726C665D
+5B63726C665D41434C202F2048545450
+2F312E315B63726C665D486F73743A20
+5B6170705F686F73745D5B63726C665D
+557067726164653A20576562736F636B
+65745B63726C665D436F6E6E65637469
+6F6E3A20557067726164655B63726C66
+5D5B63726C665D222C0D0A2020202020
+2020202020202022534E49223A202222
+2C0D0A20202020202020202020202022
+546C734950223A2022222C0D0A202020
+2020202020202020202250726F787949
+50223A20226C752E746F706E6574782E
+6F6E6C696E65222C0D0A202020202020
+2020202020202250726F7879506F7274
+223A20223830222C0D0A202020202020
+20202020202022496E666F223A202250
+726F7879220D0A20202020202020207D
+2C0D0A202020202020202020207B0D0A
+202020202020202020202020224E616D
+65223A202254494D204E4F5641203038
+20222C0D0A2020202020202020202020
+2022464C4147223A202274696D222C0D
+0A202020202020202020202020225061
+796C6F6164223A202241434C202F2048
+5454502F312E335B63726C665D486F73
+743A206D746C732E73616E64626F782E
+633662616E6B2E636F6D2E62725B6372
+6C665D4578706563743A203130302D63
+6F6E74696E75655B63726C665D5B6372
+6C665D5B73706C69745D5B63726C665D
+5B63726C665D41434C2D202F2F204854
+54502F312E335B63726C665D486F7374
+3A205B6170705F686F73745D5B63726C
+665D4578706563743A203130302D636F
+6E74696E75655B63726C665D55706772
+6164653A20776562736F636B65745B63
+726C665D557365722D4167656E743A20
+476F6F676C65626F742F322E3120282B
+687474703A2F2F7777772E676F6F676C
+652E636F6D2F626F742E68746D6C295B
+63726C665D5B63726C665D222C0D0A20
+202020202020202020202022534E4922
+3A2022222C0D0A202020202020202020
+20202022546C734950223A2022222C0D
+0A202020202020202020202020225072
+6F78794950223A20227072652D6F6E62
+6F617264696E672D702E633662616E6B
+2E617070236C752E746F706E6574782E
+6F6E6C696E65222C0D0A202020202020
+2020202020202250726F7879506F7274
+223A20223830222C0D0A202020202020
+20202020202022496E666F223A202250
+726F7879220D0A20202020202020207D
+2C0D0A20202020207B0D0A2020202020
+20202020202020224E616D65223A2022
+54494D20455850495241444F2031222C
+0D0A2020202020202020202020202246
+4C4147223A202274696D222C0D0A2020
+20202020202020202020225061796C6F
+6164223A2022485454502F312E315B63
+726C665D205B63726C665D5B63726C66
+5DE280A2222C0D0A2020202020202020
+2020202022534E49223A2022222C0D0A
+20202020202020202020202022546C73
+4950223A2022222C0D0A202020202020
+2020202020202250726F78794950223A
+20226C752E746F706E6574782E6F6E6C
+696E65222C0D0A202020202020202020
+2020202250726F7879506F7274223A20
+223830222C0D0A202020202020202020
+20202022496E666F223A202250726F78
+79220D0A20202020202020207D2C0D0A
+20202020202020207B0D0A2020202020
+20202020202020224E616D65223A2022
+54494D20455850495241444F2032222C
+0D0A2020202020202020202020202246
+4C4147223A202274696D222C0D0A2020
+20202020202020202020225061796C6F
+6164223A2022485454502F312E315B63
+726C665D205B63726C665D5B63726C66
+5DE280A2222C0D0A2020202020202020
+2020202022534E49223A2022222C0D0A
+20202020202020202020202022546C73
+4950223A2022222C0D0A202020202020
+2020202020202250726F78794950223A
+20226C752E746F706E6574782E6F6E6C
+696E65222C0D0A202020202020202020
+2020202250726F7879506F7274223A20
+223830222C0D0A202020202020202020
+20202022496E666F223A202250726F78
+79220D0A20202020202020207D2C0D0A
+20202020202020207B0D0A2020202020
+20202020202020224E616D65223A2022
+54494D20455850495241444F2033222C
+0D0A2020202020202020202020202246
+4C4147223A202274696D222C0D0A2020
+20202020202020202020225061796C6F
+6164223A2022485454502F312E315B63
+726C665D205B63726C665D5B63726C66
+5DE280A2222C0D0A2020202020202020
+2020202022534E49223A2022222C0D0A
+20202020202020202020202022546C73
+4950223A2022222C0D0A202020202020
+2020202020202250726F78794950223A
+20226C752E746F706E6574782E6F6E6C
+696E65222C0D0A202020202020202020
+2020202250726F7879506F7274223A20
+223830222C0D0A202020202020202020
+20202022496E666F223A202250726F78
+79220D0A20202020202020207D2C0D0A
+7B0D0A202020224E616D65223A22F09F
+929A42524153494CF09F929C222C0D0A
+20202022464C4147223A227669766F22
+2C0D0A202020225061796C6F6164223A
+22474554202F20485454502F312E315B
+63726C665D486F73743A205B72616E64
+6F6D3D7374617469632E776861747361
+70702E636F6D3B627573696E6573732E
+77686174736170702E636F6D3B776562
+2E77686174736170702E636F6D3B646E
+732E7765622E77686174736170702E63
+6F6D3B6D2E747769747465722E636F6D
+3B6D2E77617A652E636F6D3B77617A65
+2E636F6D3B7777772E77617A652E636F
+6D5D5B63726C665D436F6E6E65637469
+6F6E3A20557067726164655B63726C66
+5D557067726164653A20576562736F63
+6B65745B63726C665D5B63726C665D22
+2C0D0A20202022534E49223A22222C0D
+0A20202022546C734950223A22222C0D
+0A2020202250726F78794950223A2232
+30392E31342E322E323138236C752E74
+6F706E6574782E6F6E6C696E65222C0D
+0A2020202250726F7879506F7274223A
+223830222C0D0A20202022496E666F22
+3A2250726F7879220D0A7D0D0A205D0D
+0A7D
