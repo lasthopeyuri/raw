@@ -157,7 +157,7 @@
         },
          {
 "Name": "🟣 VIVO PRÉ 11",
-      "FLAG": "https://i.ibb.co/74NMdQ0/56254244b636.png
+      "FLAG": "https://i.ibb.co/74NMdQ0/56254244b636.png"
 "Payload": "[delay_split]ACL / HTTP/1.1[crlf]Host: [rotate=104.16.51.111;104.19.239.25;104.16.53.111][crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]",
 "SNI": "",
 "TlsIP": "",
@@ -247,7 +247,7 @@
    },
             {  
             "Name": "(OPÇÕES VIVO EASY👇)",
-      "FLAG": "https://i.ibb.co/74NMdQ0/56254244b636.png
+      "FLAG": "https://i.ibb.co/74NMdQ0/56254244b636.png"
             "Payload": "[delay_split][lf]GET / HTTP/1.1[lf]Host: portal.vivo.com.br [lf]",
             "SNI": "",
             "TlsIP": "lu.topnetx.online",
@@ -437,7 +437,7 @@
                      },
   {  
             "Name": "(OPÇÕES TIM SALDO EXPIRADO👇)",
-      "FLAG": "https://i.ibb.co/74NMdQ0/56254244b636.png
+      "FLAG": "https://i.ibb.co/74NMdQ0/56254244b636.png"
             "Payload": "[delay_split][lf]GET / HTTP/1.1[lf]Host: portal.vivo.com.br [lf]",
             "SNI": "",
             "TlsIP": "lu.topnetx.online",
@@ -657,7 +657,7 @@
         },
 {
    "Name":"💚BRASIL💜",
-      "FLAG": "https://i.ibb.co/74NMdQ0/56254244b636.png
+      "FLAG": "https://i.ibb.co/74NMdQ0/56254244b636.png"
    "Payload":"GET / HTTP/1.1[crlf]Host: [random=static.whatsapp.com;business.whatsapp.com;web.whatsapp.com;dns.web.whatsapp.com;m.twitter.com;m.waze.com;waze.com;www.waze.com][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
    "SNI":"",
    "TlsIP":"",
@@ -667,4 +667,3 @@
 }
  ]
 }
-
