@@ -1,6 +1,6 @@
 {
-    "Version": "15",
-    "ReleaseNotes": "🏆 SEJA BEM VINDO AO PROJETO VITALÍCIO!!! 🏆",
+    "Version": "20",
+    "ReleaseNotes": "🏆 PROJETO VITALÍCIO 🏆",
     "Sms": "https://bitbin.it/Qe9L1GzS/raw/",
     "UrlUpdate": "https://raw.githubusercontent.com/lasthopeyuri/raw/main/upload",
     "logoonline": "",
@@ -30,9 +30,9 @@
 ],            
   "Networks": [
 {
-"Name": "🟣VIVO-mix💜",
+"Name": "🟣VIVO-Mix-Turbo💜",
 "FLAG": "vivo",
-"Payload": "[delay_split]ACL / HTTP/1.1[crlf]Host: [rotate=lu.topnetx.online;104.16.51.111;104.19.239.25;104.16.53.111][crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]",
+"Payload": "[delay_split]ACL / HTTP/1.1[crlf]Host: [rotate=104.16.51.111;104.19.239.25;104.16.53.111][crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]",
 "SNI": "",
 "TlsIP": "",
 "ProxyIP": "lu.topnetx.online",
